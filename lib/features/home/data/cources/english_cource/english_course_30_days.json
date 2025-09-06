@@ -1,0 +1,5015 @@
+{
+  "course_name": "English Beginner 30 Days",
+  "days": [
+    {
+      "day": 1,
+      "words": [
+        {
+          "word": "Dog",
+          "translation": "كلب",
+          "example": "The dog is playing.",
+          "image": "assets/images/english_course/day1/dog.png"
+        },
+        {
+          "word": "Cat",
+          "translation": "قطة",
+          "example": "The cat is sleeping.",
+          "image": "assets/images/english_course/day1/cat.png"
+        },
+        {
+          "word": "Bird",
+          "translation": "طائر",
+          "example": "The bird can fly.",
+          "image": "assets/images/english_course/day1/bird.png"
+        },
+        {
+          "word": "Fish",
+          "translation": "سمك",
+          "example": "The fish swims in the water.",
+          "image": "assets/images/english_course/day1/fish.png"
+        },
+        {
+          "word": "Cow",
+          "translation": "بقرة",
+          "example": "The cow is in the field.",
+          "image": "assets/images/english_course/day1/cow.png"
+        },
+        {
+          "word": "Sheep",
+          "translation": "خروف",
+          "example": "The sheep eats grass.",
+          "image": "assets/images/english_course/day1/sheep.png"
+        },
+        {
+          "word": "Horse",
+          "translation": "حصان",
+          "example": "The horse runs fast.",
+          "image": "assets/images/english_course/day1/horse.png"
+        },
+        {
+          "word": "Duck",
+          "translation": "بطة",
+          "example": "The duck is in the lake.",
+          "image": "assets/images/english_course/day1/duck.png"
+        },
+        {
+          "word": "Goat",
+          "translation": "ماعز",
+          "example": "The goat is eating.",
+          "image": "assets/images/english_course/day1/goat.png"
+        },
+        {
+          "word": "Chicken",
+          "translation": "دجاجة",
+          "example": "The chicken lays eggs.",
+          "image": "assets/images/english_course/day1/chiken.png"
+        }
+      ],
+      "quiz": [
+        {
+          "question": "What is the meaning of 'dog'?",
+          "options": [
+            "خروف",
+            "ماعز",
+            "بقرة",
+            "كلب"
+          ],
+          "answer": "كلب"
+        },
+        {
+          "question": "What is the meaning of 'cat'?",
+          "options": [
+            "قطة",
+            "خروف",
+            "حصان",
+            "ماعز"
+          ],
+          "answer": "قطة"
+        },
+        {
+          "question": "What is the meaning of 'bird'?",
+          "options": [
+            "ماعز",
+            "دجاجة",
+            "بطة",
+            "طائر"
+          ],
+          "answer": "طائر"
+        },
+        {
+          "question": "What is the meaning of 'fish'?",
+          "options": [
+            "سمك",
+            "ماعز",
+            "طائر",
+            "كلب"
+          ],
+          "answer": "سمك"
+        },
+        {
+          "question": "What is the meaning of 'cow'?",
+          "options": [
+            "دجاجة",
+            "بطة",
+            "خروف",
+            "بقرة"
+          ],
+          "answer": "بقرة"
+        },
+        {
+          "question": "What is the meaning of 'sheep'?",
+          "options": [
+            "خروف",
+            "دجاجة",
+            "بطة",
+            "حصان"
+          ],
+          "answer": "خروف"
+        },
+        {
+          "question": "What is the meaning of 'horse'?",
+          "options": [
+            "قطة",
+            "حصان",
+            "ماعز",
+            "خروف"
+          ],
+          "answer": "حصان"
+        },
+        {
+          "question": "What is the meaning of 'duck'?",
+          "options": [
+            "بطة",
+            "ماعز",
+            "كلب",
+            "طائر"
+          ],
+          "answer": "بطة"
+        },
+        {
+          "question": "What is the meaning of 'goat'?",
+          "options": [
+            "ماعز",
+            "كلب",
+            "قطة",
+            "بطة"
+          ],
+          "answer": "ماعز"
+        },
+        {
+          "question": "What is the meaning of 'chicken'?",
+          "options": [
+            "دجاجة",
+            "خروف",
+            "ماعز",
+            "بقرة"
+          ],
+          "answer": "دجاجة"
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "words": [
+        {
+          "word": "house",
+          "translation": "منزل",
+          "example": "This is my house.",
+          "image": "assets/images/english_course/day2/house.png"
+        },
+        {
+          "word": "room",
+          "translation": "غرفة",
+          "example": "My room is small.",
+          "image": "assets/images/english_course/day2/hall.png"
+        },
+        {
+          "word": "kitchen",
+          "translation": "مطبخ",
+          "example": "The kitchen is clean.",
+          "image": "assets/images/english_course/day2/kitchen.png"
+        },
+        {
+          "word": "bathroom",
+          "translation": "حمام",
+          "example": "The bathroom is big.",
+          "image": "assets/images/english_course/day2/bathroom.jpg"
+        },
+        {
+          "word": "bed",
+          "translation": "سرير",
+          "example": "The bed is comfortable.",
+          "image": "assets/images/english_course/day2/bed.png"
+        },
+        {
+          "word": "sofa",
+          "translation": "أريكة",
+          "example": "The sofa is soft.",
+          "image": "assets/images/english_course/day2/sofa.png"
+        },
+        {
+          "word": "table",
+          "translation": "طاولة",
+          "example": "The table is round.",
+          "image": "assets/images/english_course/day2/table.png"
+        },
+        {
+          "word": "chair",
+          "translation": "كرسي",
+          "example": "The chair is new.",
+          "image": "assets/images/english_course/day2/chair.png"
+        },
+        {
+          "word": "window",
+          "translation": "نافذة",
+          "example": "The window is open.",
+          "image": "assets/images/english_course/day2/window.jpg"
+        },
+        {
+          "word": "door",
+          "translation": "باب",
+          "example": "Please close the door.",
+          "image": "assets/images/english_course/day2/door.png"
+        }
+      ],
+      "quiz": [
+        {
+          "question": "What is the meaning of 'house'?",
+          "options": [
+            "سرير",
+            "منزل",
+            "طاولة",
+            "حمام"
+          ],
+          "answer": "منزل"
+        },
+        {
+          "question": "What is the meaning of 'room'?",
+          "options": [
+            "حمام",
+            "مطبخ",
+            "غرفة",
+            "أريكة"
+          ],
+          "answer": "غرفة"
+        },
+        {
+          "question": "What is the meaning of 'kitchen'?",
+          "options": [
+            "سرير",
+            "غرفة",
+            "أريكة",
+            "مطبخ"
+          ],
+          "answer": "مطبخ"
+        },
+        {
+          "question": "What is the meaning of 'bathroom'?",
+          "options": [
+            "حمام",
+            "سرير",
+            "باب",
+            "أريكة"
+          ],
+          "answer": "حمام"
+        },
+        {
+          "question": "What is the meaning of 'bed'?",
+          "options": [
+            "باب",
+            "مطبخ",
+            "سرير",
+            "كرسي"
+          ],
+          "answer": "سرير"
+        },
+        {
+          "question": "What is the meaning of 'sofa'?",
+          "options": [
+            "مطبخ",
+            "منزل",
+            "غرفة",
+            "أريكة"
+          ],
+          "answer": "أريكة"
+        },
+        {
+          "question": "What is the meaning of 'table'?",
+          "options": [
+            "أريكة",
+            "منزل",
+            "طاولة",
+            "كرسي"
+          ],
+          "answer": "طاولة"
+        },
+        {
+          "question": "What is the meaning of 'chair'?",
+          "options": [
+            "منزل",
+            "باب",
+            "أريكة",
+            "كرسي"
+          ],
+          "answer": "كرسي"
+        },
+        {
+          "question": "What is the meaning of 'window'?",
+          "options": [
+            "منزل",
+            "نافذة",
+            "كرسي",
+            "مطبخ"
+          ],
+          "answer": "نافذة"
+        },
+        {
+          "question": "What is the meaning of 'door'?",
+          "options": [
+            "طاولة",
+            "حمام",
+            "باب",
+            "غرفة"
+          ],
+          "answer": "باب"
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "words": [
+        {
+          "word": "school",
+          "translation": "مدرسة",
+          "example": "The school is near my house.",
+          "image": "school.png"
+        },
+        {
+          "word": "teacher",
+          "translation": "معلم",
+          "example": "The teacher is kind.",
+          "image": "teacher.png"
+        },
+        {
+          "word": "student",
+          "translation": "طالب",
+          "example": "The student is smart.",
+          "image": "student.png"
+        },
+        {
+          "word": "class",
+          "translation": "صف",
+          "example": "We have class at nine.",
+          "image": "class.png"
+        },
+        {
+          "word": "lesson",
+          "translation": "درس",
+          "example": "The lesson is easy.",
+          "image": "lesson.png"
+        },
+        {
+          "word": "homework",
+          "translation": "واجب",
+          "example": "I do my homework.",
+          "image": "homework.png"
+        },
+        {
+          "word": "book",
+          "translation": "كتاب",
+          "example": "I read a book.",
+          "image": "book.png"
+        },
+        {
+          "word": "pen",
+          "translation": "قلم",
+          "example": "The pen is blue.",
+          "image": "pen.png"
+        },
+        {
+          "word": "pencil",
+          "translation": "قلم رصاص",
+          "example": "This pencil is sharp.",
+          "image": "pencil.png"
+        },
+        {
+          "word": "notebook",
+          "translation": "دفتر",
+          "example": "I write in my notebook.",
+          "image": "notebook.png"
+        }
+      ],
+      "quiz": [
+        {
+          "question": "What is the meaning of 'school'?",
+          "options": [
+            "كتاب",
+            "درس",
+            "صف",
+            "مدرسة"
+          ],
+          "answer": "مدرسة"
+        },
+        {
+          "question": "What is the meaning of 'teacher'?",
+          "options": [
+            "واجب",
+            "طالب",
+            "كتاب",
+            "معلم"
+          ],
+          "answer": "معلم"
+        },
+        {
+          "question": "What is the meaning of 'student'?",
+          "options": [
+            "كتاب",
+            "واجب",
+            "طالب",
+            "معلم"
+          ],
+          "answer": "طالب"
+        },
+        {
+          "question": "What is the meaning of 'class'?",
+          "options": [
+            "معلم",
+            "قلم",
+            "واجب",
+            "صف"
+          ],
+          "answer": "صف"
+        },
+        {
+          "question": "What is the meaning of 'lesson'?",
+          "options": [
+            "صف",
+            "قلم",
+            "درس",
+            "كتاب"
+          ],
+          "answer": "درس"
+        },
+        {
+          "question": "What is the meaning of 'homework'?",
+          "options": [
+            "واجب",
+            "طالب",
+            "دفتر",
+            "معلم"
+          ],
+          "answer": "واجب"
+        },
+        {
+          "question": "What is the meaning of 'book'?",
+          "options": [
+            "مدرسة",
+            "قلم رصاص",
+            "معلم",
+            "كتاب"
+          ],
+          "answer": "كتاب"
+        },
+        {
+          "question": "What is the meaning of 'pen'?",
+          "options": [
+            "قلم",
+            "كتاب",
+            "مدرسة",
+            "واجب"
+          ],
+          "answer": "قلم"
+        },
+        {
+          "question": "What is the meaning of 'pencil'?",
+          "options": [
+            "قلم رصاص",
+            "قلم",
+            "دفتر",
+            "صف"
+          ],
+          "answer": "قلم رصاص"
+        },
+        {
+          "question": "What is the meaning of 'notebook'?",
+          "options": [
+            "صف",
+            "درس",
+            "قلم رصاص",
+            "دفتر"
+          ],
+          "answer": "دفتر"
+        }
+      ]
+    },
+    {
+      "day": 4,
+      "words": [
+        {
+          "word": "city",
+          "translation": "مدينة",
+          "example": "The city is big.",
+          "image": "city.png"
+        },
+        {
+          "word": "village",
+          "translation": "قرية",
+          "example": "The village is quiet.",
+          "image": "village.png"
+        },
+        {
+          "word": "road",
+          "translation": "طريق",
+          "example": "The road is long.",
+          "image": "road.png"
+        },
+        {
+          "word": "street",
+          "translation": "شارع",
+          "example": "The street is clean.",
+          "image": "street.png"
+        },
+        {
+          "word": "bridge",
+          "translation": "جسر",
+          "example": "The bridge is high.",
+          "image": "bridge.png"
+        },
+        {
+          "word": "park",
+          "translation": "حديقة",
+          "example": "We played in the park.",
+          "image": "park.png"
+        },
+        {
+          "word": "shop",
+          "translation": "متجر",
+          "example": "The shop sells clothes.",
+          "image": "shop.png"
+        },
+        {
+          "word": "hospital",
+          "translation": "مستشفى",
+          "example": "The hospital is big.",
+          "image": "hospital.png"
+        },
+        {
+          "word": "library",
+          "translation": "مكتبة",
+          "example": "The library is quiet.",
+          "image": "library.png"
+        },
+        {
+          "word": "bank",
+          "translation": "بنك",
+          "example": "I go to the bank.",
+          "image": "bank.png"
+        }
+      ],
+      "quiz": [
+        {
+          "question": "What is the meaning of 'city'?",
+          "options": [
+            "بنك",
+            "مدينة",
+            "حديقة",
+            "متجر"
+          ],
+          "answer": "مدينة"
+        },
+        {
+          "question": "What is the meaning of 'village'?",
+          "options": [
+            "مكتبة",
+            "مستشفى",
+            "قرية",
+            "طريق"
+          ],
+          "answer": "قرية"
+        },
+        {
+          "question": "What is the meaning of 'road'?",
+          "options": [
+            "طريق",
+            "متجر",
+            "مدينة",
+            "شارع"
+          ],
+          "answer": "طريق"
+        },
+        {
+          "question": "What is the meaning of 'street'?",
+          "options": [
+            "قرية",
+            "شارع",
+            "حديقة",
+            "مكتبة"
+          ],
+          "answer": "شارع"
+        },
+        {
+          "question": "What is the meaning of 'bridge'?",
+          "options": [
+            "متجر",
+            "طريق",
+            "جسر",
+            "بنك"
+          ],
+          "answer": "جسر"
+        },
+        {
+          "question": "What is the meaning of 'park'?",
+          "options": [
+            "مستشفى",
+            "حديقة",
+            "شارع",
+            "قرية"
+          ],
+          "answer": "حديقة"
+        },
+        {
+          "question": "What is the meaning of 'shop'?",
+          "options": [
+            "حديقة",
+            "متجر",
+            "مستشفى",
+            "مكتبة"
+          ],
+          "answer": "متجر"
+        },
+        {
+          "question": "What is the meaning of 'hospital'?",
+          "options": [
+            "حديقة",
+            "مستشفى",
+            "متجر",
+            "مكتبة"
+          ],
+          "answer": "مستشفى"
+        },
+        {
+          "question": "What is the meaning of 'library'?",
+          "options": [
+            "شارع",
+            "جسر",
+            "مكتبة",
+            "مدينة"
+          ],
+          "answer": "مكتبة"
+        },
+        {
+          "question": "What is the meaning of 'bank'?",
+          "options": [
+            "جسر",
+            "مدينة",
+            "طريق",
+            "بنك"
+          ],
+          "answer": "بنك"
+        }
+      ]
+    },
+    {
+      "day": 5,
+      "words": [
+        {
+          "word": "bread",
+          "translation": "خبز",
+          "example": "I eat bread for breakfast.",
+          "image": "bread.png"
+        },
+        {
+          "word": "rice",
+          "translation": "أرز",
+          "example": "Rice is my favorite food.",
+          "image": "rice.png"
+        },
+        {
+          "word": "egg",
+          "translation": "بيضة",
+          "example": "I cook an egg.",
+          "image": "egg.png"
+        },
+        {
+          "word": "cheese",
+          "translation": "جبن",
+          "example": "I like cheese.",
+          "image": "cheese.png"
+        },
+        {
+          "word": "butter",
+          "translation": "زبدة",
+          "example": "Put butter on the bread.",
+          "image": "butter.png"
+        },
+        {
+          "word": "salt",
+          "translation": "ملح",
+          "example": "Add some salt.",
+          "image": "salt.png"
+        },
+        {
+          "word": "sugar",
+          "translation": "سكر",
+          "example": "I need sugar for tea.",
+          "image": "sugar.png"
+        },
+        {
+          "word": "milk",
+          "translation": "حليب",
+          "example": "I drink milk.",
+          "image": "milk.png"
+        },
+        {
+          "word": "honey",
+          "translation": "عسل",
+          "example": "Honey is sweet.",
+          "image": "honey.png"
+        },
+        {
+          "word": "oil",
+          "translation": "زيت",
+          "example": "Use oil for cooking.",
+          "image": "oil.png"
+        }
+      ],
+      "quiz": [
+        {
+          "question": "What is the meaning of 'bread'?",
+          "options": [
+            "خبز",
+            "زيت",
+            "عسل",
+            "أرز"
+          ],
+          "answer": "خبز"
+        },
+        {
+          "question": "What is the meaning of 'rice'?",
+          "options": [
+            "أرز",
+            "سكر",
+            "ملح",
+            "بيضة"
+          ],
+          "answer": "أرز"
+        },
+        {
+          "question": "What is the meaning of 'egg'?",
+          "options": [
+            "بيضة",
+            "سكر",
+            "أرز",
+            "ملح"
+          ],
+          "answer": "بيضة"
+        },
+        {
+          "question": "What is the meaning of 'cheese'?",
+          "options": [
+            "زبدة",
+            "ملح",
+            "جبن",
+            "بيضة"
+          ],
+          "answer": "جبن"
+        },
+        {
+          "question": "What is the meaning of 'butter'?",
+          "options": [
+            "ملح",
+            "خبز",
+            "زبدة",
+            "بيضة"
+          ],
+          "answer": "زبدة"
+        },
+        {
+          "question": "What is the meaning of 'salt'?",
+          "options": [
+            "ملح",
+            "جبن",
+            "عسل",
+            "زيت"
+          ],
+          "answer": "ملح"
+        },
+        {
+          "question": "What is the meaning of 'sugar'?",
+          "options": [
+            "جبن",
+            "أرز",
+            "سكر",
+            "ملح"
+          ],
+          "answer": "سكر"
+        },
+        {
+          "question": "What is the meaning of 'milk'?",
+          "options": [
+            "أرز",
+            "عسل",
+            "سكر",
+            "حليب"
+          ],
+          "answer": "حليب"
+        },
+        {
+          "question": "What is the meaning of 'honey'?",
+          "options": [
+            "عسل",
+            "حليب",
+            "زبدة",
+            "بيضة"
+          ],
+          "answer": "عسل"
+        },
+        {
+          "question": "What is the meaning of 'oil'?",
+          "options": [
+            "زبدة",
+            "بيضة",
+            "أرز",
+            "زيت"
+          ],
+          "answer": "زيت"
+        }
+      ]
+    },
+    {
+      "day": 6,
+      "words": [
+        {
+          "word": "apple",
+          "translation": "تفاحة",
+          "example": "The apple is red.",
+          "image": "apple.png"
+        },
+        {
+          "word": "banana",
+          "translation": "موز",
+          "example": "The banana is yellow.",
+          "image": "banana.png"
+        },
+        {
+          "word": "orange",
+          "translation": "برتقال",
+          "example": "The orange is sweet.",
+          "image": "orange.png"
+        },
+        {
+          "word": "grape",
+          "translation": "عنب",
+          "example": "Grapes are small.",
+          "image": "grape.png"
+        },
+        {
+          "word": "watermelon",
+          "translation": "بطيخ",
+          "example": "The watermelon is big.",
+          "image": "watermelon.png"
+        },
+        {
+          "word": "strawberry",
+          "translation": "فراولة",
+          "example": "I like strawberry.",
+          "image": "strawberry.png"
+        },
+        {
+          "word": "lemon",
+          "translation": "ليمون",
+          "example": "The lemon is sour.",
+          "image": "lemon.png"
+        },
+        {
+          "word": "peach",
+          "translation": "خوخ",
+          "example": "The peach is soft.",
+          "image": "peach.png"
+        },
+        {
+          "word": "pear",
+          "translation": "كمثرى",
+          "example": "The pear is green.",
+          "image": "pear.png"
+        },
+        {
+          "word": "pineapple",
+          "translation": "أناناس",
+          "example": "Pineapple is tasty.",
+          "image": "pineapple.png"
+        }
+      ],
+      "quiz": [
+        {
+          "question": "What is the meaning of 'apple'?",
+          "options": [
+            "برتقال",
+            "تفاحة",
+            "عنب",
+            "موز"
+          ],
+          "answer": "تفاحة"
+        },
+        {
+          "question": "What is the meaning of 'banana'?",
+          "options": [
+            "موز",
+            "تفاحة",
+            "برتقال",
+            "عنب"
+          ],
+          "answer": "موز"
+        },
+        {
+          "question": "What is the meaning of 'orange'?",
+          "options": [
+            "برتقال",
+            "كمثرى",
+            "موز",
+            "تفاحة"
+          ],
+          "answer": "برتقال"
+        },
+        {
+          "question": "What is the meaning of 'grape'?",
+          "options": [
+            "خوخ",
+            "موز",
+            "برتقال",
+            "عنب"
+          ],
+          "answer": "عنب"
+        },
+        {
+          "question": "What is the meaning of 'watermelon'?",
+          "options": [
+            "تفاحة",
+            "بطيخ",
+            "كمثرى",
+            "موز"
+          ],
+          "answer": "بطيخ"
+        },
+        {
+          "question": "What is the meaning of 'strawberry'?",
+          "options": [
+            "ليمون",
+            "فراولة",
+            "أناناس",
+            "كمثرى"
+          ],
+          "answer": "فراولة"
+        },
+        {
+          "question": "What is the meaning of 'lemon'?",
+          "options": [
+            "تفاحة",
+            "بطيخ",
+            "ليمون",
+            "أناناس"
+          ],
+          "answer": "ليمون"
+        },
+        {
+          "question": "What is the meaning of 'peach'?",
+          "options": [
+            "خوخ",
+            "موز",
+            "عنب",
+            "بطيخ"
+          ],
+          "answer": "خوخ"
+        },
+        {
+          "question": "What is the meaning of 'pear'?",
+          "options": [
+            "تفاحة",
+            "بطيخ",
+            "كمثرى",
+            "ليمون"
+          ],
+          "answer": "كمثرى"
+        },
+        {
+          "question": "What is the meaning of 'pineapple'?",
+          "options": [
+            "عنب",
+            "أناناس",
+            "خوخ",
+            "ليمون"
+          ],
+          "answer": "أناناس"
+        }
+      ]
+    },
+    {
+      "day": 7,
+      "words": [
+        {
+          "word": "water",
+          "translation": "ماء",
+          "example": "I drink water.",
+          "image": "water.png"
+        },
+        {
+          "word": "tea",
+          "translation": "شاي",
+          "example": "I like green tea.",
+          "image": "tea.png"
+        },
+        {
+          "word": "coffee",
+          "translation": "قهوة",
+          "example": "I need coffee now.",
+          "image": "coffee.png"
+        },
+        {
+          "word": "juice",
+          "translation": "عصير",
+          "example": "I drink orange juice.",
+          "image": "juice.png"
+        },
+        {
+          "word": "milkshake",
+          "translation": "ميلك شيك",
+          "example": "She likes milkshake.",
+          "image": "milkshake.png"
+        },
+        {
+          "word": "sandwich",
+          "translation": "ساندويتش",
+          "example": "I eat a sandwich.",
+          "image": "sandwich.png"
+        },
+        {
+          "word": "soup",
+          "translation": "حساء",
+          "example": "The soup is hot.",
+          "image": "soup.png"
+        },
+        {
+          "word": "salad",
+          "translation": "سلطة",
+          "example": "I eat salad for lunch.",
+          "image": "salad.png"
+        },
+        {
+          "word": "pizza",
+          "translation": "بيتزا",
+          "example": "We ordered a pizza.",
+          "image": "pizza.png"
+        },
+        {
+          "word": "cake",
+          "translation": "كيك",
+          "example": "This cake is delicious.",
+          "image": "cake.png"
+        }
+      ],
+      "quiz": [
+        {
+          "question": "What is the meaning of 'water'?",
+          "options": [
+            "ماء",
+            "عصير",
+            "ساندويتش",
+            "سلطة"
+          ],
+          "answer": "ماء"
+        },
+        {
+          "question": "What is the meaning of 'tea'?",
+          "options": [
+            "ماء",
+            "كيك",
+            "ميلك شيك",
+            "شاي"
+          ],
+          "answer": "شاي"
+        },
+        {
+          "question": "What is the meaning of 'coffee'?",
+          "options": [
+            "بيتزا",
+            "شاي",
+            "قهوة",
+            "ماء"
+          ],
+          "answer": "قهوة"
+        },
+        {
+          "question": "What is the meaning of 'juice'?",
+          "options": [
+            "سلطة",
+            "عصير",
+            "ماء",
+            "ميلك شيك"
+          ],
+          "answer": "عصير"
+        },
+        {
+          "question": "What is the meaning of 'milkshake'?",
+          "options": [
+            "ماء",
+            "كيك",
+            "ميلك شيك",
+            "سلطة"
+          ],
+          "answer": "ميلك شيك"
+        },
+        {
+          "question": "What is the meaning of 'sandwich'?",
+          "options": [
+            "ماء",
+            "بيتزا",
+            "ساندويتش",
+            "حساء"
+          ],
+          "answer": "ساندويتش"
+        },
+        {
+          "question": "What is the meaning of 'soup'?",
+          "options": [
+            "شاي",
+            "ميلك شيك",
+            "بيتزا",
+            "حساء"
+          ],
+          "answer": "حساء"
+        },
+        {
+          "question": "What is the meaning of 'salad'?",
+          "options": [
+            "ميلك شيك",
+            "كيك",
+            "سلطة",
+            "عصير"
+          ],
+          "answer": "سلطة"
+        },
+        {
+          "question": "What is the meaning of 'pizza'?",
+          "options": [
+            "قهوة",
+            "عصير",
+            "كيك",
+            "بيتزا"
+          ],
+          "answer": "بيتزا"
+        },
+        {
+          "question": "What is the meaning of 'cake'?",
+          "options": [
+            "عصير",
+            "كيك",
+            "حساء",
+            "قهوة"
+          ],
+          "answer": "كيك"
+        }
+      ]
+    },
+    {
+      "day": 8,
+      "words": [
+        {
+          "word": "shirt",
+          "translation": "قميص",
+          "example": "He wears a blue shirt.",
+          "image": "shirt.png"
+        },
+        {
+          "word": "pants",
+          "translation": "بنطال",
+          "example": "My pants are black.",
+          "image": "pants.png"
+        },
+        {
+          "word": "shoes",
+          "translation": "حذاء",
+          "example": "Her shoes are new.",
+          "image": "shoes.png"
+        },
+        {
+          "word": "hat",
+          "translation": "قبعة",
+          "example": "He wears a hat.",
+          "image": "hat.png"
+        },
+        {
+          "word": "dress",
+          "translation": "فستان",
+          "example": "The dress is beautiful.",
+          "image": "dress.png"
+        },
+        {
+          "word": "coat",
+          "translation": "معطف",
+          "example": "The coat is warm.",
+          "image": "coat.png"
+        },
+        {
+          "word": "socks",
+          "translation": "جوارب",
+          "example": "I wear socks every day.",
+          "image": "socks.png"
+        },
+        {
+          "word": "scarf",
+          "translation": "وشاح",
+          "example": "The scarf is long.",
+          "image": "scarf.png"
+        },
+        {
+          "word": "gloves",
+          "translation": "قفازات",
+          "example": "The gloves are white.",
+          "image": "gloves.png"
+        },
+        {
+          "word": "jacket",
+          "translation": "سترة",
+          "example": "The jacket is big.",
+          "image": "jacket.png"
+        }
+      ],
+      "quiz": [
+        {
+          "question": "What is the meaning of 'shirt'?",
+          "options": [
+            "حذاء",
+            "جوارب",
+            "فستان",
+            "قميص"
+          ],
+          "answer": "قميص"
+        },
+        {
+          "question": "What is the meaning of 'pants'?",
+          "options": [
+            "حذاء",
+            "سترة",
+            "بنطال",
+            "جوارب"
+          ],
+          "answer": "بنطال"
+        },
+        {
+          "question": "What is the meaning of 'shoes'?",
+          "options": [
+            "جوارب",
+            "معطف",
+            "حذاء",
+            "قميص"
+          ],
+          "answer": "حذاء"
+        },
+        {
+          "question": "What is the meaning of 'hat'?",
+          "options": [
+            "قبعة",
+            "سترة",
+            "قميص",
+            "معطف"
+          ],
+          "answer": "قبعة"
+        },
+        {
+          "question": "What is the meaning of 'dress'?",
+          "options": [
+            "جوارب",
+            "فستان",
+            "قميص",
+            "قفازات"
+          ],
+          "answer": "فستان"
+        },
+        {
+          "question": "What is the meaning of 'coat'?",
+          "options": [
+            "معطف",
+            "وشاح",
+            "بنطال",
+            "جوارب"
+          ],
+          "answer": "معطف"
+        },
+        {
+          "question": "What is the meaning of 'socks'?",
+          "options": [
+            "حذاء",
+            "جوارب",
+            "قفازات",
+            "سترة"
+          ],
+          "answer": "جوارب"
+        },
+        {
+          "question": "What is the meaning of 'scarf'?",
+          "options": [
+            "بنطال",
+            "قبعة",
+            "وشاح",
+            "سترة"
+          ],
+          "answer": "وشاح"
+        },
+        {
+          "question": "What is the meaning of 'gloves'?",
+          "options": [
+            "قميص",
+            "قفازات",
+            "حذاء",
+            "معطف"
+          ],
+          "answer": "قفازات"
+        },
+        {
+          "question": "What is the meaning of 'jacket'?",
+          "options": [
+            "سترة",
+            "جوارب",
+            "وشاح",
+            "قميص"
+          ],
+          "answer": "سترة"
+        }
+      ]
+    },
+    {
+      "day": 9,
+      "words": [
+        {
+          "word": "red",
+          "translation": "أحمر",
+          "example": "The apple is red.",
+          "image": "red.png"
+        },
+        {
+          "word": "blue",
+          "translation": "أزرق",
+          "example": "The sky is blue.",
+          "image": "blue.png"
+        },
+        {
+          "word": "green",
+          "translation": "أخضر",
+          "example": "The grass is green.",
+          "image": "green.png"
+        },
+        {
+          "word": "yellow",
+          "translation": "أصفر",
+          "example": "The sun is yellow.",
+          "image": "yellow.png"
+        },
+        {
+          "word": "black",
+          "translation": "أسود",
+          "example": "The cat is black.",
+          "image": "black.png"
+        },
+        {
+          "word": "white",
+          "translation": "أبيض",
+          "example": "The snow is white.",
+          "image": "white.png"
+        },
+        {
+          "word": "circle",
+          "translation": "دائرة",
+          "example": "Draw a circle.",
+          "image": "circle.png"
+        },
+        {
+          "word": "square",
+          "translation": "مربع",
+          "example": "This box is a square.",
+          "image": "square.png"
+        },
+        {
+          "word": "triangle",
+          "translation": "مثلث",
+          "example": "Cut a triangle.",
+          "image": "triangle.png"
+        },
+        {
+          "word": "rectangle",
+          "translation": "مستطيل",
+          "example": "The table is a rectangle.",
+          "image": "rectangle.png"
+        }
+      ],
+      "quiz": [
+        {
+          "question": "What is the meaning of 'red'?",
+          "options": [
+            "أسود",
+            "أحمر",
+            "دائرة",
+            "أصفر"
+          ],
+          "answer": "أحمر"
+        },
+        {
+          "question": "What is the meaning of 'blue'?",
+          "options": [
+            "أزرق",
+            "مستطيل",
+            "أبيض",
+            "أخضر"
+          ],
+          "answer": "أزرق"
+        },
+        {
+          "question": "What is the meaning of 'green'?",
+          "options": [
+            "أخضر",
+            "أسود",
+            "مثلث",
+            "دائرة"
+          ],
+          "answer": "أخضر"
+        },
+        {
+          "question": "What is the meaning of 'yellow'?",
+          "options": [
+            "أحمر",
+            "أصفر",
+            "دائرة",
+            "مثلث"
+          ],
+          "answer": "أصفر"
+        },
+        {
+          "question": "What is the meaning of 'black'?",
+          "options": [
+            "أبيض",
+            "أزرق",
+            "أسود",
+            "مثلث"
+          ],
+          "answer": "أسود"
+        },
+        {
+          "question": "What is the meaning of 'white'?",
+          "options": [
+            "أبيض",
+            "أصفر",
+            "مثلث",
+            "أحمر"
+          ],
+          "answer": "أبيض"
+        },
+        {
+          "question": "What is the meaning of 'circle'?",
+          "options": [
+            "أصفر",
+            "أبيض",
+            "دائرة",
+            "أسود"
+          ],
+          "answer": "دائرة"
+        },
+        {
+          "question": "What is the meaning of 'square'?",
+          "options": [
+            "دائرة",
+            "أحمر",
+            "أخضر",
+            "مربع"
+          ],
+          "answer": "مربع"
+        },
+        {
+          "question": "What is the meaning of 'triangle'?",
+          "options": [
+            "دائرة",
+            "أزرق",
+            "أحمر",
+            "مثلث"
+          ],
+          "answer": "مثلث"
+        },
+        {
+          "question": "What is the meaning of 'rectangle'?",
+          "options": [
+            "مستطيل",
+            "أبيض",
+            "مثلث",
+            "أخضر"
+          ],
+          "answer": "مستطيل"
+        }
+      ]
+    },
+    {
+      "day": 10,
+      "words": [
+        {
+          "word": "sun",
+          "translation": "شمس",
+          "example": "The sun is hot.",
+          "image": "sun.png"
+        },
+        {
+          "word": "moon",
+          "translation": "قمر",
+          "example": "The moon is bright.",
+          "image": "moon.png"
+        },
+        {
+          "word": "star",
+          "translation": "نجمة",
+          "example": "There are many stars.",
+          "image": "star.png"
+        },
+        {
+          "word": "sky",
+          "translation": "سماء",
+          "example": "The sky is clear.",
+          "image": "sky.png"
+        },
+        {
+          "word": "cloud",
+          "translation": "سحابة",
+          "example": "That cloud is big.",
+          "image": "cloud.png"
+        },
+        {
+          "word": "rain",
+          "translation": "مطر",
+          "example": "The rain is heavy.",
+          "image": "rain.png"
+        },
+        {
+          "word": "snow",
+          "translation": "ثلج",
+          "example": "Snow is cold.",
+          "image": "snow.png"
+        },
+        {
+          "word": "wind",
+          "translation": "ريح",
+          "example": "The wind is strong.",
+          "image": "wind.png"
+        },
+        {
+          "word": "storm",
+          "translation": "عاصفة",
+          "example": "The storm is dangerous.",
+          "image": "storm.png"
+        },
+        {
+          "word": "weather",
+          "translation": "طقس",
+          "example": "The weather is nice today.",
+          "image": "weather.png"
+        }
+      ],
+      "quiz": [
+        {
+          "question": "What is the meaning of 'sun'?",
+          "options": [
+            "ريح",
+            "شمس",
+            "ثلج",
+            "طقس"
+          ],
+          "answer": "شمس"
+        },
+        {
+          "question": "What is the meaning of 'moon'?",
+          "options": [
+            "سماء",
+            "قمر",
+            "مطر",
+            "سحابة"
+          ],
+          "answer": "قمر"
+        },
+        {
+          "question": "What is the meaning of 'star'?",
+          "options": [
+            "مطر",
+            "شمس",
+            "نجمة",
+            "سحابة"
+          ],
+          "answer": "نجمة"
+        },
+        {
+          "question": "What is the meaning of 'sky'?",
+          "options": [
+            "سماء",
+            "مطر",
+            "شمس",
+            "ريح"
+          ],
+          "answer": "سماء"
+        },
+        {
+          "question": "What is the meaning of 'cloud'?",
+          "options": [
+            "سحابة",
+            "ريح",
+            "مطر",
+            "سماء"
+          ],
+          "answer": "سحابة"
+        },
+        {
+          "question": "What is the meaning of 'rain'?",
+          "options": [
+            "ثلج",
+            "عاصفة",
+            "مطر",
+            "سحابة"
+          ],
+          "answer": "مطر"
+        },
+        {
+          "question": "What is the meaning of 'snow'?",
+          "options": [
+            "ثلج",
+            "سحابة",
+            "سماء",
+            "شمس"
+          ],
+          "answer": "ثلج"
+        },
+        {
+          "question": "What is the meaning of 'wind'?",
+          "options": [
+            "شمس",
+            "نجمة",
+            "طقس",
+            "ريح"
+          ],
+          "answer": "ريح"
+        },
+        {
+          "question": "What is the meaning of 'storm'?",
+          "options": [
+            "مطر",
+            "عاصفة",
+            "ثلج",
+            "قمر"
+          ],
+          "answer": "عاصفة"
+        },
+        {
+          "question": "What is the meaning of 'weather'?",
+          "options": [
+            "قمر",
+            "طقس",
+            "سحابة",
+            "شمس"
+          ],
+          "answer": "طقس"
+        }
+      ]
+    },
+    {
+      "day": 11,
+      "words": [
+        {
+          "word": "river",
+          "translation": "نهر",
+          "example": "The river is long.",
+          "image": "river.png"
+        },
+        {
+          "word": "mountain",
+          "translation": "جبل",
+          "example": "The mountain is high.",
+          "image": "mountain.png"
+        },
+        {
+          "word": "forest",
+          "translation": "غابة",
+          "example": "The forest is dark.",
+          "image": "forest.png"
+        },
+        {
+          "word": "sea",
+          "translation": "بحر",
+          "example": "I swim in the sea.",
+          "image": "sea.png"
+        },
+        {
+          "word": "lake",
+          "translation": "بحيرة",
+          "example": "The lake is calm.",
+          "image": "lake.png"
+        },
+        {
+          "word": "tree",
+          "translation": "شجرة",
+          "example": "There is a big tree.",
+          "image": "tree.png"
+        },
+        {
+          "word": "flower",
+          "translation": "زهرة",
+          "example": "This flower is beautiful.",
+          "image": "flower.png"
+        },
+        {
+          "word": "grass",
+          "translation": "عشب",
+          "example": "The grass is short.",
+          "image": "grass.png"
+        },
+        {
+          "word": "desert",
+          "translation": "صحراء",
+          "example": "The desert is dry.",
+          "image": "desert.png"
+        },
+        {
+          "word": "island",
+          "translation": "جزيرة",
+          "example": "The island is small.",
+          "image": "island.png"
+        }
+      ],
+      "quiz": [
+        {
+          "question": "What is the meaning of 'river'?",
+          "options": [
+            "بحيرة",
+            "زهرة",
+            "بحر",
+            "نهر"
+          ],
+          "answer": "نهر"
+        },
+        {
+          "question": "What is the meaning of 'mountain'?",
+          "options": [
+            "جبل",
+            "غابة",
+            "زهرة",
+            "بحر"
+          ],
+          "answer": "جبل"
+        },
+        {
+          "question": "What is the meaning of 'forest'?",
+          "options": [
+            "صحراء",
+            "غابة",
+            "بحر",
+            "زهرة"
+          ],
+          "answer": "غابة"
+        },
+        {
+          "question": "What is the meaning of 'sea'?",
+          "options": [
+            "بحر",
+            "عشب",
+            "غابة",
+            "صحراء"
+          ],
+          "answer": "بحر"
+        },
+        {
+          "question": "What is the meaning of 'lake'?",
+          "options": [
+            "بحيرة",
+            "غابة",
+            "صحراء",
+            "عشب"
+          ],
+          "answer": "بحيرة"
+        },
+        {
+          "question": "What is the meaning of 'tree'?",
+          "options": [
+            "نهر",
+            "جزيرة",
+            "شجرة",
+            "زهرة"
+          ],
+          "answer": "شجرة"
+        },
+        {
+          "question": "What is the meaning of 'flower'?",
+          "options": [
+            "شجرة",
+            "زهرة",
+            "نهر",
+            "جزيرة"
+          ],
+          "answer": "زهرة"
+        },
+        {
+          "question": "What is the meaning of 'grass'?",
+          "options": [
+            "زهرة",
+            "غابة",
+            "نهر",
+            "عشب"
+          ],
+          "answer": "عشب"
+        },
+        {
+          "question": "What is the meaning of 'desert'?",
+          "options": [
+            "جزيرة",
+            "غابة",
+            "بحر",
+            "صحراء"
+          ],
+          "answer": "صحراء"
+        },
+        {
+          "question": "What is the meaning of 'island'?",
+          "options": [
+            "غابة",
+            "جبل",
+            "شجرة",
+            "جزيرة"
+          ],
+          "answer": "جزيرة"
+        }
+      ]
+    },
+    {
+      "day": 12,
+      "words": [
+        {
+          "word": "car",
+          "translation": "سيارة",
+          "example": "The car is fast.",
+          "image": "car.png"
+        },
+        {
+          "word": "bus",
+          "translation": "حافلة",
+          "example": "The bus is big.",
+          "image": "bus.png"
+        },
+        {
+          "word": "train",
+          "translation": "قطار",
+          "example": "The train is long.",
+          "image": "train.png"
+        },
+        {
+          "word": "plane",
+          "translation": "طائرة",
+          "example": "The plane is flying.",
+          "image": "plane.png"
+        },
+        {
+          "word": "ship",
+          "translation": "سفينة",
+          "example": "The ship is on the sea.",
+          "image": "ship.png"
+        },
+        {
+          "word": "bike",
+          "translation": "دراجة",
+          "example": "I ride a bike.",
+          "image": "bike.png"
+        },
+        {
+          "word": "truck",
+          "translation": "شاحنة",
+          "example": "The truck is strong.",
+          "image": "truck.png"
+        },
+        {
+          "word": "motorcycle",
+          "translation": "دراجة نارية",
+          "example": "The motorcycle is fast.",
+          "image": "motorcycle.png"
+        },
+        {
+          "word": "subway",
+          "translation": "مترو",
+          "example": "The subway is crowded.",
+          "image": "subway.png"
+        },
+        {
+          "word": "taxi",
+          "translation": "تاكسي",
+          "example": "The taxi is yellow.",
+          "image": "taxi.png"
+        }
+      ],
+      "quiz": [
+        {
+          "question": "What is the meaning of 'car'?",
+          "options": [
+            "سيارة",
+            "تاكسي",
+            "سفينة",
+            "مترو"
+          ],
+          "answer": "سيارة"
+        },
+        {
+          "question": "What is the meaning of 'bus'?",
+          "options": [
+            "حافلة",
+            "دراجة نارية",
+            "شاحنة",
+            "سفينة"
+          ],
+          "answer": "حافلة"
+        },
+        {
+          "question": "What is the meaning of 'train'?",
+          "options": [
+            "دراجة",
+            "قطار",
+            "مترو",
+            "سيارة"
+          ],
+          "answer": "قطار"
+        },
+        {
+          "question": "What is the meaning of 'plane'?",
+          "options": [
+            "طائرة",
+            "سيارة",
+            "حافلة",
+            "سفينة"
+          ],
+          "answer": "طائرة"
+        },
+        {
+          "question": "What is the meaning of 'ship'?",
+          "options": [
+            "قطار",
+            "سفينة",
+            "طائرة",
+            "مترو"
+          ],
+          "answer": "سفينة"
+        },
+        {
+          "question": "What is the meaning of 'bike'?",
+          "options": [
+            "دراجة",
+            "طائرة",
+            "دراجة نارية",
+            "قطار"
+          ],
+          "answer": "دراجة"
+        },
+        {
+          "question": "What is the meaning of 'truck'?",
+          "options": [
+            "شاحنة",
+            "سفينة",
+            "مترو",
+            "طائرة"
+          ],
+          "answer": "شاحنة"
+        },
+        {
+          "question": "What is the meaning of 'motorcycle'?",
+          "options": [
+            "دراجة نارية",
+            "سيارة",
+            "حافلة",
+            "مترو"
+          ],
+          "answer": "دراجة نارية"
+        },
+        {
+          "question": "What is the meaning of 'subway'?",
+          "options": [
+            "شاحنة",
+            "سيارة",
+            "دراجة",
+            "مترو"
+          ],
+          "answer": "مترو"
+        },
+        {
+          "question": "What is the meaning of 'taxi'?",
+          "options": [
+            "حافلة",
+            "دراجة",
+            "دراجة نارية",
+            "تاكسي"
+          ],
+          "answer": "تاكسي"
+        }
+      ]
+    },
+    {
+      "day": 13,
+      "words": [
+        {
+          "word": "morning",
+          "translation": "صباح",
+          "example": "I wake up in the morning.",
+          "image": "morning.png"
+        },
+        {
+          "word": "afternoon",
+          "translation": "بعد الظهر",
+          "example": "I work in the afternoon.",
+          "image": "afternoon.png"
+        },
+        {
+          "word": "evening",
+          "translation": "مساء",
+          "example": "We walk in the evening.",
+          "image": "evening.png"
+        },
+        {
+          "word": "night",
+          "translation": "ليل",
+          "example": "It is quiet at night.",
+          "image": "night.png"
+        },
+        {
+          "word": "today",
+          "translation": "اليوم",
+          "example": "I feel good today.",
+          "image": "today.png"
+        },
+        {
+          "word": "yesterday",
+          "translation": "أمس",
+          "example": "I was busy yesterday.",
+          "image": "yesterday.png"
+        },
+        {
+          "word": "tomorrow",
+          "translation": "غدًا",
+          "example": "See you tomorrow.",
+          "image": "tomorrow.png"
+        },
+        {
+          "word": "week",
+          "translation": "أسبوع",
+          "example": "There are seven days in a week.",
+          "image": "week.png"
+        },
+        {
+          "word": "month",
+          "translation": "شهر",
+          "example": "A month has many days.",
+          "image": "month.png"
+        },
+        {
+          "word": "year",
+          "translation": "سنة",
+          "example": "The year is long.",
+          "image": "year.png"
+        }
+      ],
+      "quiz": [
+        {
+          "question": "What is the meaning of 'morning'?",
+          "options": [
+            "اليوم",
+            "أمس",
+            "صباح",
+            "مساء"
+          ],
+          "answer": "صباح"
+        },
+        {
+          "question": "What is the meaning of 'afternoon'?",
+          "options": [
+            "اليوم",
+            "بعد الظهر",
+            "أمس",
+            "صباح"
+          ],
+          "answer": "بعد الظهر"
+        },
+        {
+          "question": "What is the meaning of 'evening'?",
+          "options": [
+            "سنة",
+            "مساء",
+            "اليوم",
+            "ليل"
+          ],
+          "answer": "مساء"
+        },
+        {
+          "question": "What is the meaning of 'night'?",
+          "options": [
+            "بعد الظهر",
+            "شهر",
+            "ليل",
+            "مساء"
+          ],
+          "answer": "ليل"
+        },
+        {
+          "question": "What is the meaning of 'today'?",
+          "options": [
+            "اليوم",
+            "سنة",
+            "أمس",
+            "شهر"
+          ],
+          "answer": "اليوم"
+        },
+        {
+          "question": "What is the meaning of 'yesterday'?",
+          "options": [
+            "مساء",
+            "أمس",
+            "صباح",
+            "بعد الظهر"
+          ],
+          "answer": "أمس"
+        },
+        {
+          "question": "What is the meaning of 'tomorrow'?",
+          "options": [
+            "صباح",
+            "شهر",
+            "اليوم",
+            "غدًا"
+          ],
+          "answer": "غدًا"
+        },
+        {
+          "question": "What is the meaning of 'week'?",
+          "options": [
+            "غدًا",
+            "ليل",
+            "شهر",
+            "أسبوع"
+          ],
+          "answer": "أسبوع"
+        },
+        {
+          "question": "What is the meaning of 'month'?",
+          "options": [
+            "شهر",
+            "أمس",
+            "أسبوع",
+            "مساء"
+          ],
+          "answer": "شهر"
+        },
+        {
+          "question": "What is the meaning of 'year'?",
+          "options": [
+            "مساء",
+            "صباح",
+            "أسبوع",
+            "سنة"
+          ],
+          "answer": "سنة"
+        }
+      ]
+    },
+    {
+      "day": 14,
+      "words": [
+        {
+          "word": "father",
+          "translation": "أب",
+          "example": "My father is tall.",
+          "image": "father.png"
+        },
+        {
+          "word": "mother",
+          "translation": "أم",
+          "example": "My mother is kind.",
+          "image": "mother.png"
+        },
+        {
+          "word": "brother",
+          "translation": "أخ",
+          "example": "My brother is funny.",
+          "image": "brother.png"
+        },
+        {
+          "word": "sister",
+          "translation": "أخت",
+          "example": "My sister is smart.",
+          "image": "sister.png"
+        },
+        {
+          "word": "son",
+          "translation": "ابن",
+          "example": "Her son is young.",
+          "image": "son.png"
+        },
+        {
+          "word": "daughter",
+          "translation": "ابنة",
+          "example": "Her daughter is small.",
+          "image": "daughter.png"
+        },
+        {
+          "word": "family",
+          "translation": "عائلة",
+          "example": "My family is big.",
+          "image": "family.png"
+        },
+        {
+          "word": "uncle",
+          "translation": "عم/خال",
+          "example": "My uncle is nice.",
+          "image": "uncle.png"
+        },
+        {
+          "word": "aunt",
+          "translation": "عمة/خالة",
+          "example": "My aunt is kind.",
+          "image": "aunt.png"
+        },
+        {
+          "word": "cousin",
+          "translation": "ابن عم/ابن خال",
+          "example": "My cousin is friendly.",
+          "image": "cousin.png"
+        }
+      ],
+      "quiz": [
+        {
+          "question": "What is the meaning of 'father'?",
+          "options": [
+            "ابن عم/ابن خال",
+            "عم/خال",
+            "أخ",
+            "أب"
+          ],
+          "answer": "أب"
+        },
+        {
+          "question": "What is the meaning of 'mother'?",
+          "options": [
+            "أخ",
+            "أم",
+            "أب",
+            "ابن عم/ابن خال"
+          ],
+          "answer": "أم"
+        },
+        {
+          "question": "What is the meaning of 'brother'?",
+          "options": [
+            "ابنة",
+            "أخ",
+            "عم/خال",
+            "عمة/خالة"
+          ],
+          "answer": "أخ"
+        },
+        {
+          "question": "What is the meaning of 'sister'?",
+          "options": [
+            "أخت",
+            "عمة/خالة",
+            "ابن",
+            "أم"
+          ],
+          "answer": "أخت"
+        },
+        {
+          "question": "What is the meaning of 'son'?",
+          "options": [
+            "ابن",
+            "ابن عم/ابن خال",
+            "عمة/خالة",
+            "عم/خال"
+          ],
+          "answer": "ابن"
+        },
+        {
+          "question": "What is the meaning of 'daughter'?",
+          "options": [
+            "أخ",
+            "عمة/خالة",
+            "عائلة",
+            "ابنة"
+          ],
+          "answer": "ابنة"
+        },
+        {
+          "question": "What is the meaning of 'family'?",
+          "options": [
+            "عائلة",
+            "ابنة",
+            "ابن",
+            "أب"
+          ],
+          "answer": "عائلة"
+        },
+        {
+          "question": "What is the meaning of 'uncle'?",
+          "options": [
+            "عمة/خالة",
+            "أم",
+            "عم/خال",
+            "عائلة"
+          ],
+          "answer": "عم/خال"
+        },
+        {
+          "question": "What is the meaning of 'aunt'?",
+          "options": [
+            "عمة/خالة",
+            "أخ",
+            "أم",
+            "ابن"
+          ],
+          "answer": "عمة/خالة"
+        },
+        {
+          "question": "What is the meaning of 'cousin'?",
+          "options": [
+            "ابن عم/ابن خال",
+            "أخ",
+            "أخت",
+            "عائلة"
+          ],
+          "answer": "ابن عم/ابن خال"
+        }
+      ]
+    },
+    {
+      "day": 15,
+      "words": [
+        {
+          "word": "head",
+          "translation": "رأس",
+          "example": "He put a hat on his head.",
+          "image": "head.png"
+        },
+        {
+          "word": "hair",
+          "translation": "شعر",
+          "example": "Her hair is long.",
+          "image": "hair.png"
+        },
+        {
+          "word": "face",
+          "translation": "وجه",
+          "example": "Wash your face.",
+          "image": "face.png"
+        },
+        {
+          "word": "eye",
+          "translation": "عين",
+          "example": "She has blue eyes.",
+          "image": "eye.png"
+        },
+        {
+          "word": "ear",
+          "translation": "أذن",
+          "example": "My ear hurts.",
+          "image": "ear.png"
+        },
+        {
+          "word": "nose",
+          "translation": "أنف",
+          "example": "His nose is small.",
+          "image": "nose.png"
+        },
+        {
+          "word": "mouth",
+          "translation": "فم",
+          "example": "Open your mouth.",
+          "image": "mouth.png"
+        },
+        {
+          "word": "hand",
+          "translation": "يد",
+          "example": "Wash your hands.",
+          "image": "hand.png"
+        },
+        {
+          "word": "leg",
+          "translation": "ساق",
+          "example": "His leg is strong.",
+          "image": "leg.png"
+        },
+        {
+          "word": "foot",
+          "translation": "قدم",
+          "example": "My foot hurts.",
+          "image": "foot.png"
+        }
+      ],
+      "quiz": [
+        {
+          "question": "What is the meaning of 'head'?",
+          "options": [
+            "وجه",
+            "يد",
+            "ساق",
+            "رأس"
+          ],
+          "answer": "رأس"
+        },
+        {
+          "question": "What is the meaning of 'hair'?",
+          "options": [
+            "رأس",
+            "قدم",
+            "أذن",
+            "شعر"
+          ],
+          "answer": "شعر"
+        },
+        {
+          "question": "What is the meaning of 'face'?",
+          "options": [
+            "وجه",
+            "أذن",
+            "عين",
+            "يد"
+          ],
+          "answer": "وجه"
+        },
+        {
+          "question": "What is the meaning of 'eye'?",
+          "options": [
+            "وجه",
+            "قدم",
+            "أنف",
+            "عين"
+          ],
+          "answer": "عين"
+        },
+        {
+          "question": "What is the meaning of 'ear'?",
+          "options": [
+            "أذن",
+            "فم",
+            "قدم",
+            "عين"
+          ],
+          "answer": "أذن"
+        },
+        {
+          "question": "What is the meaning of 'nose'?",
+          "options": [
+            "قدم",
+            "أذن",
+            "أنف",
+            "ساق"
+          ],
+          "answer": "أنف"
+        },
+        {
+          "question": "What is the meaning of 'mouth'?",
+          "options": [
+            "فم",
+            "وجه",
+            "رأس",
+            "عين"
+          ],
+          "answer": "فم"
+        },
+        {
+          "question": "What is the meaning of 'hand'?",
+          "options": [
+            "قدم",
+            "يد",
+            "ساق",
+            "رأس"
+          ],
+          "answer": "يد"
+        },
+        {
+          "question": "What is the meaning of 'leg'?",
+          "options": [
+            "عين",
+            "ساق",
+            "يد",
+            "رأس"
+          ],
+          "answer": "ساق"
+        },
+        {
+          "question": "What is the meaning of 'foot'?",
+          "options": [
+            "أنف",
+            "رأس",
+            "وجه",
+            "قدم"
+          ],
+          "answer": "قدم"
+        }
+      ]
+    },
+    {
+      "day": 16,
+      "words": [
+        {
+          "word": "go",
+          "translation": "يذهب",
+          "example": "I go to school every day.",
+          "image": "go.png"
+        },
+        {
+          "word": "come",
+          "translation": "يأتي",
+          "example": "Please come here.",
+          "image": "come.png"
+        },
+        {
+          "word": "eat",
+          "translation": "يأكل",
+          "example": "I eat breakfast at 8.",
+          "image": "eat.png"
+        },
+        {
+          "word": "drink",
+          "translation": "يشرب",
+          "example": "I drink water when I am thirsty.",
+          "image": "drink.png"
+        },
+        {
+          "word": "sleep",
+          "translation": "ينام",
+          "example": "I sleep at ten o'clock.",
+          "image": "sleep.png"
+        },
+        {
+          "word": "read",
+          "translation": "يقرأ",
+          "example": "I read a book before bed.",
+          "image": "read.png"
+        },
+        {
+          "word": "write",
+          "translation": "يكتب",
+          "example": "I write a short email.",
+          "image": "write.png"
+        },
+        {
+          "word": "speak",
+          "translation": "يتحدث",
+          "example": "I speak English with my friend.",
+          "image": "speak.png"
+        },
+        {
+          "word": "listen",
+          "translation": "يستمع",
+          "example": "I listen to music.",
+          "image": "listen.png"
+        },
+        {
+          "word": "play",
+          "translation": "يلعب",
+          "example": "I play football after school.",
+          "image": "play.png"
+        }
+      ],
+      "quiz": [
+        {
+          "question": "What is the meaning of 'go'?",
+          "options": [
+            "يكتب",
+            "يذهب",
+            "يتحدث",
+            "يشرب"
+          ],
+          "answer": "يذهب"
+        },
+        {
+          "question": "What is the meaning of 'come'?",
+          "options": [
+            "يستمع",
+            "يشرب",
+            "يأتي",
+            "يأكل"
+          ],
+          "answer": "يأتي"
+        },
+        {
+          "question": "What is the meaning of 'eat'?",
+          "options": [
+            "يكتب",
+            "يستمع",
+            "يأتي",
+            "يأكل"
+          ],
+          "answer": "يأكل"
+        },
+        {
+          "question": "What is the meaning of 'drink'?",
+          "options": [
+            "يستمع",
+            "يقرأ",
+            "يشرب",
+            "ينام"
+          ],
+          "answer": "يشرب"
+        },
+        {
+          "question": "What is the meaning of 'sleep'?",
+          "options": [
+            "يأكل",
+            "يتحدث",
+            "يلعب",
+            "ينام"
+          ],
+          "answer": "ينام"
+        },
+        {
+          "question": "What is the meaning of 'read'?",
+          "options": [
+            "يذهب",
+            "يقرأ",
+            "يلعب",
+            "يكتب"
+          ],
+          "answer": "يقرأ"
+        },
+        {
+          "question": "What is the meaning of 'write'?",
+          "options": [
+            "يلعب",
+            "يشرب",
+            "يكتب",
+            "يأكل"
+          ],
+          "answer": "يكتب"
+        },
+        {
+          "question": "What is the meaning of 'speak'?",
+          "options": [
+            "يكتب",
+            "يتحدث",
+            "ينام",
+            "يقرأ"
+          ],
+          "answer": "يتحدث"
+        },
+        {
+          "question": "What is the meaning of 'listen'?",
+          "options": [
+            "يستمع",
+            "يقرأ",
+            "يأتي",
+            "يذهب"
+          ],
+          "answer": "يستمع"
+        },
+        {
+          "question": "What is the meaning of 'play'?",
+          "options": [
+            "يستمع",
+            "يذهب",
+            "يلعب",
+            "يقرأ"
+          ],
+          "answer": "يلعب"
+        }
+      ]
+    },
+    {
+      "day": 17,
+      "words": [
+        {
+          "word": "happy",
+          "translation": "سعيد",
+          "example": "This is a sentence with happy.",
+          "image": "happy.png"
+        },
+        {
+          "word": "sad",
+          "translation": "حزين",
+          "example": "This is a sentence with sad.",
+          "image": "sad.png"
+        },
+        {
+          "word": "angry",
+          "translation": "غاضب",
+          "example": "This is a sentence with angry.",
+          "image": "angry.png"
+        },
+        {
+          "word": "tired",
+          "translation": "متعب",
+          "example": "This is a sentence with tired.",
+          "image": "tired.png"
+        },
+        {
+          "word": "afraid",
+          "translation": "خائف",
+          "example": "This is a sentence with afraid.",
+          "image": "afraid.png"
+        },
+        {
+          "word": "surprised",
+          "translation": "متفاجئ",
+          "example": "This is a sentence with surprised.",
+          "image": "surprised.png"
+        },
+        {
+          "word": "hungry",
+          "translation": "جائع",
+          "example": "This is a sentence with hungry.",
+          "image": "hungry.png"
+        },
+        {
+          "word": "thirsty",
+          "translation": "عطشان",
+          "example": "This is a sentence with thirsty.",
+          "image": "thirsty.png"
+        },
+        {
+          "word": "bored",
+          "translation": "يشعر بالملل",
+          "example": "This is a sentence with bored.",
+          "image": "bored.png"
+        },
+        {
+          "word": "excited",
+          "translation": "متحمس",
+          "example": "This is a sentence with excited.",
+          "image": "excited.png"
+        }
+      ],
+      "quiz": [
+        {
+          "question": "What is the meaning of 'happy'?",
+          "options": [
+            "متعب",
+            "متحمس",
+            "سعيد",
+            "يشعر بالملل"
+          ],
+          "answer": "سعيد"
+        },
+        {
+          "question": "What is the meaning of 'sad'?",
+          "options": [
+            "خائف",
+            "متفاجئ",
+            "حزين",
+            "غاضب"
+          ],
+          "answer": "حزين"
+        },
+        {
+          "question": "What is the meaning of 'angry'?",
+          "options": [
+            "خائف",
+            "جائع",
+            "حزين",
+            "غاضب"
+          ],
+          "answer": "غاضب"
+        },
+        {
+          "question": "What is the meaning of 'tired'?",
+          "options": [
+            "عطشان",
+            "متعب",
+            "سعيد",
+            "يشعر بالملل"
+          ],
+          "answer": "متعب"
+        },
+        {
+          "question": "What is the meaning of 'afraid'?",
+          "options": [
+            "غاضب",
+            "متعب",
+            "خائف",
+            "حزين"
+          ],
+          "answer": "خائف"
+        },
+        {
+          "question": "What is the meaning of 'surprised'?",
+          "options": [
+            "متفاجئ",
+            "حزين",
+            "متحمس",
+            "غاضب"
+          ],
+          "answer": "متفاجئ"
+        },
+        {
+          "question": "What is the meaning of 'hungry'?",
+          "options": [
+            "عطشان",
+            "حزين",
+            "جائع",
+            "غاضب"
+          ],
+          "answer": "جائع"
+        },
+        {
+          "question": "What is the meaning of 'thirsty'?",
+          "options": [
+            "متفاجئ",
+            "يشعر بالملل",
+            "عطشان",
+            "متعب"
+          ],
+          "answer": "عطشان"
+        },
+        {
+          "question": "What is the meaning of 'bored'?",
+          "options": [
+            "سعيد",
+            "غاضب",
+            "يشعر بالملل",
+            "متحمس"
+          ],
+          "answer": "يشعر بالملل"
+        },
+        {
+          "question": "What is the meaning of 'excited'?",
+          "options": [
+            "سعيد",
+            "متعب",
+            "متحمس",
+            "جائع"
+          ],
+          "answer": "متحمس"
+        }
+      ]
+    },
+    {
+      "day": 18,
+      "words": [
+        {
+          "word": "refrigerator",
+          "translation": "ثلاجة",
+          "example": "This is a sentence with refrigerator.",
+          "image": "refrigerator.png"
+        },
+        {
+          "word": "oven",
+          "translation": "فرن",
+          "example": "This is a sentence with oven.",
+          "image": "oven.png"
+        },
+        {
+          "word": "stove",
+          "translation": "موقد",
+          "example": "This is a sentence with stove.",
+          "image": "stove.png"
+        },
+        {
+          "word": "sink",
+          "translation": "حوض",
+          "example": "This is a sentence with sink.",
+          "image": "sink.png"
+        },
+        {
+          "word": "plate",
+          "translation": "طبق",
+          "example": "This is a sentence with plate.",
+          "image": "plate.png"
+        },
+        {
+          "word": "cup",
+          "translation": "كوب",
+          "example": "This is a sentence with cup.",
+          "image": "cup.png"
+        },
+        {
+          "word": "spoon",
+          "translation": "ملعقة",
+          "example": "This is a sentence with spoon.",
+          "image": "spoon.png"
+        },
+        {
+          "word": "fork",
+          "translation": "شوكة",
+          "example": "This is a sentence with fork.",
+          "image": "fork.png"
+        },
+        {
+          "word": "knife",
+          "translation": "سكين",
+          "example": "This is a sentence with knife.",
+          "image": "knife.png"
+        },
+        {
+          "word": "towel",
+          "translation": "منشفة",
+          "example": "This is a sentence with towel.",
+          "image": "towel.png"
+        }
+      ],
+      "quiz": [
+        {
+          "question": "What is the meaning of 'refrigerator'?",
+          "options": [
+            "كوب",
+            "طبق",
+            "ثلاجة",
+            "سكين"
+          ],
+          "answer": "ثلاجة"
+        },
+        {
+          "question": "What is the meaning of 'oven'?",
+          "options": [
+            "سكين",
+            "فرن",
+            "ثلاجة",
+            "شوكة"
+          ],
+          "answer": "فرن"
+        },
+        {
+          "question": "What is the meaning of 'stove'?",
+          "options": [
+            "موقد",
+            "كوب",
+            "طبق",
+            "سكين"
+          ],
+          "answer": "موقد"
+        },
+        {
+          "question": "What is the meaning of 'sink'?",
+          "options": [
+            "شوكة",
+            "حوض",
+            "فرن",
+            "ثلاجة"
+          ],
+          "answer": "حوض"
+        },
+        {
+          "question": "What is the meaning of 'plate'?",
+          "options": [
+            "موقد",
+            "حوض",
+            "طبق",
+            "فرن"
+          ],
+          "answer": "طبق"
+        },
+        {
+          "question": "What is the meaning of 'cup'?",
+          "options": [
+            "فرن",
+            "كوب",
+            "سكين",
+            "منشفة"
+          ],
+          "answer": "كوب"
+        },
+        {
+          "question": "What is the meaning of 'spoon'?",
+          "options": [
+            "ملعقة",
+            "طبق",
+            "شوكة",
+            "موقد"
+          ],
+          "answer": "ملعقة"
+        },
+        {
+          "question": "What is the meaning of 'fork'?",
+          "options": [
+            "شوكة",
+            "سكين",
+            "ملعقة",
+            "طبق"
+          ],
+          "answer": "شوكة"
+        },
+        {
+          "question": "What is the meaning of 'knife'?",
+          "options": [
+            "شوكة",
+            "حوض",
+            "طبق",
+            "سكين"
+          ],
+          "answer": "سكين"
+        },
+        {
+          "question": "What is the meaning of 'towel'?",
+          "options": [
+            "طبق",
+            "ملعقة",
+            "منشفة",
+            "موقد"
+          ],
+          "answer": "منشفة"
+        }
+      ]
+    },
+    {
+      "day": 19,
+      "words": [
+        {
+          "word": "doctor",
+          "translation": "طبيب",
+          "example": "The doctor works in a hospital.",
+          "image": "doctor.png"
+        },
+        {
+          "word": "nurse",
+          "translation": "ممرضة",
+          "example": "The nurse helps patients.",
+          "image": "nurse.png"
+        },
+        {
+          "word": "engineer",
+          "translation": "مهندس",
+          "example": "The engineer designs bridges.",
+          "image": "engineer.png"
+        },
+        {
+          "word": "teacher",
+          "translation": "معلم",
+          "example": "The teacher is kind.",
+          "image": "teacher.png"
+        },
+        {
+          "word": "farmer",
+          "translation": "مزارع",
+          "example": "The farmer works on a farm.",
+          "image": "farmer.png"
+        },
+        {
+          "word": "driver",
+          "translation": "سائق",
+          "example": "The driver waits in the car.",
+          "image": "driver.png"
+        },
+        {
+          "word": "cook",
+          "translation": "طاهٍ",
+          "example": "She cooks dinner every day.",
+          "image": "cook.png"
+        },
+        {
+          "word": "police officer",
+          "translation": "شرطي",
+          "example": "The police officer helps people.",
+          "image": "police_officer.png"
+        },
+        {
+          "word": "firefighter",
+          "translation": "رجل إطفاء",
+          "example": "The firefighter saves lives.",
+          "image": "firefighter.png"
+        },
+        {
+          "word": "worker",
+          "translation": "عامل",
+          "example": "The worker is busy.",
+          "image": "worker.png"
+        }
+      ],
+      "quiz": [
+        {
+          "question": "What is the meaning of 'doctor'?",
+          "options": [
+            "عامل",
+            "طاهٍ",
+            "طبيب",
+            "معلم"
+          ],
+          "answer": "طبيب"
+        },
+        {
+          "question": "What is the meaning of 'nurse'?",
+          "options": [
+            "عامل",
+            "رجل إطفاء",
+            "ممرضة",
+            "سائق"
+          ],
+          "answer": "ممرضة"
+        },
+        {
+          "question": "What is the meaning of 'engineer'?",
+          "options": [
+            "مهندس",
+            "رجل إطفاء",
+            "طبيب",
+            "عامل"
+          ],
+          "answer": "مهندس"
+        },
+        {
+          "question": "What is the meaning of 'teacher'?",
+          "options": [
+            "سائق",
+            "معلم",
+            "رجل إطفاء",
+            "شرطي"
+          ],
+          "answer": "معلم"
+        },
+        {
+          "question": "What is the meaning of 'farmer'?",
+          "options": [
+            "مزارع",
+            "سائق",
+            "معلم",
+            "عامل"
+          ],
+          "answer": "مزارع"
+        },
+        {
+          "question": "What is the meaning of 'driver'?",
+          "options": [
+            "ممرضة",
+            "مهندس",
+            "معلم",
+            "سائق"
+          ],
+          "answer": "سائق"
+        },
+        {
+          "question": "What is the meaning of 'cook'?",
+          "options": [
+            "شرطي",
+            "سائق",
+            "طبيب",
+            "طاهٍ"
+          ],
+          "answer": "طاهٍ"
+        },
+        {
+          "question": "What is the meaning of 'police officer'?",
+          "options": [
+            "مزارع",
+            "شرطي",
+            "طبيب",
+            "رجل إطفاء"
+          ],
+          "answer": "شرطي"
+        },
+        {
+          "question": "What is the meaning of 'firefighter'?",
+          "options": [
+            "ممرضة",
+            "طبيب",
+            "رجل إطفاء",
+            "مزارع"
+          ],
+          "answer": "رجل إطفاء"
+        },
+        {
+          "question": "What is the meaning of 'worker'?",
+          "options": [
+            "مهندس",
+            "عامل",
+            "طبيب",
+            "طاهٍ"
+          ],
+          "answer": "عامل"
+        }
+      ]
+    },
+    {
+      "day": 20,
+      "words": [
+        {
+          "word": "restaurant",
+          "translation": "مطعم",
+          "example": "The restaurant is full.",
+          "image": "restaurant.png"
+        },
+        {
+          "word": "cafe",
+          "translation": "مقهى",
+          "example": "We sit in the cafe.",
+          "image": "cafe.png"
+        },
+        {
+          "word": "supermarket",
+          "translation": "سوبرماركت",
+          "example": "The supermarket is big.",
+          "image": "supermarket.png"
+        },
+        {
+          "word": "bakery",
+          "translation": "مخبز",
+          "example": "The bakery sells bread.",
+          "image": "bakery.png"
+        },
+        {
+          "word": "pharmacy",
+          "translation": "صيدلية",
+          "example": "I buy medicine from the pharmacy.",
+          "image": "pharmacy.png"
+        },
+        {
+          "word": "airport",
+          "translation": "مطار",
+          "example": "The airport is far.",
+          "image": "airport.png"
+        },
+        {
+          "word": "station",
+          "translation": "محطة",
+          "example": "We go to the train station.",
+          "image": "station.png"
+        },
+        {
+          "word": "hotel",
+          "translation": "فندق",
+          "example": "We sleep in a hotel.",
+          "image": "hotel.png"
+        },
+        {
+          "word": "museum",
+          "translation": "متحف",
+          "example": "The museum is interesting.",
+          "image": "museum.png"
+        },
+        {
+          "word": "cinema",
+          "translation": "سينما",
+          "example": "We watch a movie at the cinema.",
+          "image": "cinema.png"
+        }
+      ],
+      "quiz": [
+        {
+          "question": "What is the meaning of 'restaurant'?",
+          "options": [
+            "فندق",
+            "مطار",
+            "مطعم",
+            "متحف"
+          ],
+          "answer": "مطعم"
+        },
+        {
+          "question": "What is the meaning of 'cafe'?",
+          "options": [
+            "فندق",
+            "مقهى",
+            "سينما",
+            "مخبز"
+          ],
+          "answer": "مقهى"
+        },
+        {
+          "question": "What is the meaning of 'supermarket'?",
+          "options": [
+            "متحف",
+            "مطعم",
+            "سوبرماركت",
+            "سينما"
+          ],
+          "answer": "سوبرماركت"
+        },
+        {
+          "question": "What is the meaning of 'bakery'?",
+          "options": [
+            "مخبز",
+            "فندق",
+            "سوبرماركت",
+            "مطعم"
+          ],
+          "answer": "مخبز"
+        },
+        {
+          "question": "What is the meaning of 'pharmacy'?",
+          "options": [
+            "سينما",
+            "صيدلية",
+            "مقهى",
+            "متحف"
+          ],
+          "answer": "صيدلية"
+        },
+        {
+          "question": "What is the meaning of 'airport'?",
+          "options": [
+            "فندق",
+            "مقهى",
+            "مطعم",
+            "مطار"
+          ],
+          "answer": "مطار"
+        },
+        {
+          "question": "What is the meaning of 'station'?",
+          "options": [
+            "سينما",
+            "صيدلية",
+            "محطة",
+            "فندق"
+          ],
+          "answer": "محطة"
+        },
+        {
+          "question": "What is the meaning of 'hotel'?",
+          "options": [
+            "صيدلية",
+            "فندق",
+            "محطة",
+            "مطار"
+          ],
+          "answer": "فندق"
+        },
+        {
+          "question": "What is the meaning of 'museum'?",
+          "options": [
+            "فندق",
+            "متحف",
+            "مخبز",
+            "مطار"
+          ],
+          "answer": "متحف"
+        },
+        {
+          "question": "What is the meaning of 'cinema'?",
+          "options": [
+            "سينما",
+            "مخبز",
+            "محطة",
+            "سوبرماركت"
+          ],
+          "answer": "سينما"
+        }
+      ]
+    },
+    {
+      "day": 21,
+      "words": [
+        {
+          "word": "football",
+          "translation": "كرة قدم",
+          "example": "We play football after school.",
+          "image": "football.png"
+        },
+        {
+          "word": "basketball",
+          "translation": "كرة سلة",
+          "example": "He likes basketball.",
+          "image": "basketball.png"
+        },
+        {
+          "word": "music",
+          "translation": "موسيقى",
+          "example": "I listen to music every day.",
+          "image": "music.png"
+        },
+        {
+          "word": "movie",
+          "translation": "فيلم",
+          "example": "We watched a good movie.",
+          "image": "movie.png"
+        },
+        {
+          "word": "game",
+          "translation": "لعبة",
+          "example": "This game is fun.",
+          "image": "game.png"
+        },
+        {
+          "word": "travel",
+          "translation": "سفر",
+          "example": "I love to travel.",
+          "image": "travel.png"
+        },
+        {
+          "word": "photo",
+          "translation": "صورة",
+          "example": "I took a photo of the sunset.",
+          "image": "photo.png"
+        },
+        {
+          "word": "drawing",
+          "translation": "رسم",
+          "example": "She enjoys drawing animals.",
+          "image": "drawing.png"
+        },
+        {
+          "word": "reading",
+          "translation": "قراءة",
+          "example": "Reading helps me learn.",
+          "image": "reading.png"
+        },
+        {
+          "word": "writing",
+          "translation": "كتابة",
+          "example": "Writing improves my English.",
+          "image": "writing.png"
+        }
+      ],
+      "quiz": [
+        {
+          "question": "What is the meaning of 'football'?",
+          "options": [
+            "موسيقى",
+            "كرة قدم",
+            "قراءة",
+            "رسم"
+          ],
+          "answer": "كرة قدم"
+        },
+        {
+          "question": "What is the meaning of 'basketball'?",
+          "options": [
+            "كرة سلة",
+            "صورة",
+            "فيلم",
+            "كرة قدم"
+          ],
+          "answer": "كرة سلة"
+        },
+        {
+          "question": "What is the meaning of 'music'?",
+          "options": [
+            "كرة قدم",
+            "موسيقى",
+            "كرة سلة",
+            "رسم"
+          ],
+          "answer": "موسيقى"
+        },
+        {
+          "question": "What is the meaning of 'movie'?",
+          "options": [
+            "لعبة",
+            "فيلم",
+            "كتابة",
+            "كرة قدم"
+          ],
+          "answer": "فيلم"
+        },
+        {
+          "question": "What is the meaning of 'game'?",
+          "options": [
+            "موسيقى",
+            "قراءة",
+            "لعبة",
+            "كتابة"
+          ],
+          "answer": "لعبة"
+        },
+        {
+          "question": "What is the meaning of 'travel'?",
+          "options": [
+            "قراءة",
+            "موسيقى",
+            "صورة",
+            "سفر"
+          ],
+          "answer": "سفر"
+        },
+        {
+          "question": "What is the meaning of 'photo'?",
+          "options": [
+            "صورة",
+            "سفر",
+            "رسم",
+            "كرة قدم"
+          ],
+          "answer": "صورة"
+        },
+        {
+          "question": "What is the meaning of 'drawing'?",
+          "options": [
+            "لعبة",
+            "كرة قدم",
+            "صورة",
+            "رسم"
+          ],
+          "answer": "رسم"
+        },
+        {
+          "question": "What is the meaning of 'reading'?",
+          "options": [
+            "كرة سلة",
+            "قراءة",
+            "صورة",
+            "سفر"
+          ],
+          "answer": "قراءة"
+        },
+        {
+          "question": "What is the meaning of 'writing'?",
+          "options": [
+            "رسم",
+            "كتابة",
+            "فيلم",
+            "لعبة"
+          ],
+          "answer": "كتابة"
+        }
+      ]
+    },
+    {
+      "day": 22,
+      "words": [
+        {
+          "word": "computer",
+          "translation": "كمبيوتر",
+          "example": "The computer is new.",
+          "image": "computer.png"
+        },
+        {
+          "word": "laptop",
+          "translation": "حاسوب محمول",
+          "example": "I use a laptop for work.",
+          "image": "laptop.png"
+        },
+        {
+          "word": "keyboard",
+          "translation": "لوحة مفاتيح",
+          "example": "The keyboard is black.",
+          "image": "keyboard.png"
+        },
+        {
+          "word": "mouse",
+          "translation": "فأرة",
+          "example": "The mouse is on the desk.",
+          "image": "mouse.png"
+        },
+        {
+          "word": "screen",
+          "translation": "شاشة",
+          "example": "The screen is bright.",
+          "image": "screen.png"
+        },
+        {
+          "word": "phone",
+          "translation": "هاتف",
+          "example": "My phone is new.",
+          "image": "phone.png"
+        },
+        {
+          "word": "tablet",
+          "translation": "جهاز لوحي",
+          "example": "The tablet is light.",
+          "image": "tablet.png"
+        },
+        {
+          "word": "internet",
+          "translation": "إنترنت",
+          "example": "The internet is fast.",
+          "image": "internet.png"
+        },
+        {
+          "word": "email",
+          "translation": "بريد إلكتروني",
+          "example": "I send an email to my friend.",
+          "image": "email.png"
+        },
+        {
+          "word": "website",
+          "translation": "موقع ويب",
+          "example": "This website is useful.",
+          "image": "website.png"
+        }
+      ],
+      "quiz": [
+        {
+          "question": "What is the meaning of 'computer'?",
+          "options": [
+            "شاشة",
+            "لوحة مفاتيح",
+            "حاسوب محمول",
+            "كمبيوتر"
+          ],
+          "answer": "كمبيوتر"
+        },
+        {
+          "question": "What is the meaning of 'laptop'?",
+          "options": [
+            "لوحة مفاتيح",
+            "حاسوب محمول",
+            "إنترنت",
+            "هاتف"
+          ],
+          "answer": "حاسوب محمول"
+        },
+        {
+          "question": "What is the meaning of 'keyboard'?",
+          "options": [
+            "موقع ويب",
+            "حاسوب محمول",
+            "شاشة",
+            "لوحة مفاتيح"
+          ],
+          "answer": "لوحة مفاتيح"
+        },
+        {
+          "question": "What is the meaning of 'mouse'?",
+          "options": [
+            "إنترنت",
+            "بريد إلكتروني",
+            "جهاز لوحي",
+            "فأرة"
+          ],
+          "answer": "فأرة"
+        },
+        {
+          "question": "What is the meaning of 'screen'?",
+          "options": [
+            "حاسوب محمول",
+            "جهاز لوحي",
+            "شاشة",
+            "كمبيوتر"
+          ],
+          "answer": "شاشة"
+        },
+        {
+          "question": "What is the meaning of 'phone'?",
+          "options": [
+            "حاسوب محمول",
+            "جهاز لوحي",
+            "فأرة",
+            "هاتف"
+          ],
+          "answer": "هاتف"
+        },
+        {
+          "question": "What is the meaning of 'tablet'?",
+          "options": [
+            "كمبيوتر",
+            "جهاز لوحي",
+            "موقع ويب",
+            "إنترنت"
+          ],
+          "answer": "جهاز لوحي"
+        },
+        {
+          "question": "What is the meaning of 'internet'?",
+          "options": [
+            "هاتف",
+            "لوحة مفاتيح",
+            "إنترنت",
+            "بريد إلكتروني"
+          ],
+          "answer": "إنترنت"
+        },
+        {
+          "question": "What is the meaning of 'email'?",
+          "options": [
+            "هاتف",
+            "شاشة",
+            "بريد إلكتروني",
+            "لوحة مفاتيح"
+          ],
+          "answer": "بريد إلكتروني"
+        },
+        {
+          "question": "What is the meaning of 'website'?",
+          "options": [
+            "فأرة",
+            "موقع ويب",
+            "إنترنت",
+            "جهاز لوحي"
+          ],
+          "answer": "موقع ويب"
+        }
+      ]
+    },
+    {
+      "day": 23,
+      "words": [
+        {
+          "word": "open",
+          "translation": "يفتح",
+          "example": "Please open the window.",
+          "image": "open.png"
+        },
+        {
+          "word": "close",
+          "translation": "يغلق",
+          "example": "Close the door, please.",
+          "image": "close.png"
+        },
+        {
+          "word": "start",
+          "translation": "يبدأ",
+          "example": "We start the class at nine.",
+          "image": "start.png"
+        },
+        {
+          "word": "finish",
+          "translation": "ينهي",
+          "example": "They finish work early.",
+          "image": "finish.png"
+        },
+        {
+          "word": "help",
+          "translation": "يساعد",
+          "example": "Can you help me with this?",
+          "image": "help.png"
+        },
+        {
+          "word": "build",
+          "translation": "يبني",
+          "example": "They build a small house.",
+          "image": "build.png"
+        },
+        {
+          "word": "cook",
+          "translation": "يطبخ",
+          "example": "She cooks dinner every day.",
+          "image": "cook.png"
+        },
+        {
+          "word": "clean",
+          "translation": "ينظف",
+          "example": "He cleans his room.",
+          "image": "clean.png"
+        },
+        {
+          "word": "buy",
+          "translation": "يشتري",
+          "example": "I buy food from the shop.",
+          "image": "buy.png"
+        },
+        {
+          "word": "sell",
+          "translation": "يبيع",
+          "example": "They sell fresh fruit.",
+          "image": "sell.png"
+        }
+      ],
+      "quiz": [
+        {
+          "question": "What is the meaning of 'open'?",
+          "options": [
+            "يفتح",
+            "يبني",
+            "ينظف",
+            "يشتري"
+          ],
+          "answer": "يفتح"
+        },
+        {
+          "question": "What is the meaning of 'close'?",
+          "options": [
+            "يشتري",
+            "ينهي",
+            "يساعد",
+            "يغلق"
+          ],
+          "answer": "يغلق"
+        },
+        {
+          "question": "What is the meaning of 'start'?",
+          "options": [
+            "يبدأ",
+            "ينظف",
+            "يبيع",
+            "يشتري"
+          ],
+          "answer": "يبدأ"
+        },
+        {
+          "question": "What is the meaning of 'finish'?",
+          "options": [
+            "ينهي",
+            "يفتح",
+            "يشتري",
+            "يبدأ"
+          ],
+          "answer": "ينهي"
+        },
+        {
+          "question": "What is the meaning of 'help'?",
+          "options": [
+            "يطبخ",
+            "يغلق",
+            "يساعد",
+            "يشتري"
+          ],
+          "answer": "يساعد"
+        },
+        {
+          "question": "What is the meaning of 'build'?",
+          "options": [
+            "يطبخ",
+            "يغلق",
+            "ينهي",
+            "يبني"
+          ],
+          "answer": "يبني"
+        },
+        {
+          "question": "What is the meaning of 'cook'?",
+          "options": [
+            "يبني",
+            "يغلق",
+            "يطبخ",
+            "يشتري"
+          ],
+          "answer": "يطبخ"
+        },
+        {
+          "question": "What is the meaning of 'clean'?",
+          "options": [
+            "يبدأ",
+            "يفتح",
+            "ينظف",
+            "يغلق"
+          ],
+          "answer": "ينظف"
+        },
+        {
+          "question": "What is the meaning of 'buy'?",
+          "options": [
+            "يشتري",
+            "يساعد",
+            "يطبخ",
+            "ينظف"
+          ],
+          "answer": "يشتري"
+        },
+        {
+          "question": "What is the meaning of 'sell'?",
+          "options": [
+            "يساعد",
+            "يبيع",
+            "يغلق",
+            "يبني"
+          ],
+          "answer": "يبيع"
+        }
+      ]
+    },
+    {
+      "day": 24,
+      "words": [
+        {
+          "word": "lion",
+          "translation": "أسد",
+          "example": "The lion is strong.",
+          "image": "lion.png"
+        },
+        {
+          "word": "tiger",
+          "translation": "نمر",
+          "example": "The tiger is fast.",
+          "image": "tiger.png"
+        },
+        {
+          "word": "elephant",
+          "translation": "فيل",
+          "example": "The elephant is big.",
+          "image": "elephant.png"
+        },
+        {
+          "word": "monkey",
+          "translation": "قرد",
+          "example": "The monkey climbs trees.",
+          "image": "monkey.png"
+        },
+        {
+          "word": "bear",
+          "translation": "دب",
+          "example": "The bear is brown.",
+          "image": "bear.png"
+        },
+        {
+          "word": "zebra",
+          "translation": "حمار وحشي",
+          "example": "The zebra has stripes.",
+          "image": "zebra.png"
+        },
+        {
+          "word": "giraffe",
+          "translation": "زرافة",
+          "example": "The giraffe has a long neck.",
+          "image": "giraffe.png"
+        },
+        {
+          "word": "wolf",
+          "translation": "ذئب",
+          "example": "The wolf runs at night.",
+          "image": "wolf.png"
+        },
+        {
+          "word": "fox",
+          "translation": "ثعلب",
+          "example": "The fox is clever.",
+          "image": "fox.png"
+        },
+        {
+          "word": "deer",
+          "translation": "غزال",
+          "example": "The deer is in the forest.",
+          "image": "deer.png"
+        }
+      ],
+      "quiz": [
+        {
+          "question": "What is the meaning of 'lion'?",
+          "options": [
+            "ثعلب",
+            "قرد",
+            "أسد",
+            "زرافة"
+          ],
+          "answer": "أسد"
+        },
+        {
+          "question": "What is the meaning of 'tiger'?",
+          "options": [
+            "نمر",
+            "ذئب",
+            "ثعلب",
+            "زرافة"
+          ],
+          "answer": "نمر"
+        },
+        {
+          "question": "What is the meaning of 'elephant'?",
+          "options": [
+            "ذئب",
+            "غزال",
+            "دب",
+            "فيل"
+          ],
+          "answer": "فيل"
+        },
+        {
+          "question": "What is the meaning of 'monkey'?",
+          "options": [
+            "قرد",
+            "نمر",
+            "دب",
+            "ذئب"
+          ],
+          "answer": "قرد"
+        },
+        {
+          "question": "What is the meaning of 'bear'?",
+          "options": [
+            "دب",
+            "زرافة",
+            "قرد",
+            "فيل"
+          ],
+          "answer": "دب"
+        },
+        {
+          "question": "What is the meaning of 'zebra'?",
+          "options": [
+            "نمر",
+            "فيل",
+            "غزال",
+            "حمار وحشي"
+          ],
+          "answer": "حمار وحشي"
+        },
+        {
+          "question": "What is the meaning of 'giraffe'?",
+          "options": [
+            "زرافة",
+            "نمر",
+            "ذئب",
+            "فيل"
+          ],
+          "answer": "زرافة"
+        },
+        {
+          "question": "What is the meaning of 'wolf'?",
+          "options": [
+            "ذئب",
+            "قرد",
+            "حمار وحشي",
+            "أسد"
+          ],
+          "answer": "ذئب"
+        },
+        {
+          "question": "What is the meaning of 'fox'?",
+          "options": [
+            "ثعلب",
+            "أسد",
+            "ذئب",
+            "قرد"
+          ],
+          "answer": "ثعلب"
+        },
+        {
+          "question": "What is the meaning of 'deer'?",
+          "options": [
+            "غزال",
+            "ثعلب",
+            "قرد",
+            "ذئب"
+          ],
+          "answer": "غزال"
+        }
+      ]
+    },
+    {
+      "day": 25,
+      "words": [
+        {
+          "word": "tomato",
+          "translation": "طماطم",
+          "example": "Tomatoes are red.",
+          "image": "tomato.png"
+        },
+        {
+          "word": "potato",
+          "translation": "بطاطس",
+          "example": "I like potato fries.",
+          "image": "potato.png"
+        },
+        {
+          "word": "onion",
+          "translation": "بصل",
+          "example": "The onion makes me cry.",
+          "image": "onion.png"
+        },
+        {
+          "word": "carrot",
+          "translation": "جزر",
+          "example": "Carrots are orange.",
+          "image": "carrot.png"
+        },
+        {
+          "word": "cucumber",
+          "translation": "خيار",
+          "example": "I eat cucumber salad.",
+          "image": "cucumber.png"
+        },
+        {
+          "word": "pepper",
+          "translation": "فلفل",
+          "example": "Green pepper is fresh.",
+          "image": "pepper.png"
+        },
+        {
+          "word": "lettuce",
+          "translation": "خس",
+          "example": "Lettuce is green.",
+          "image": "lettuce.png"
+        },
+        {
+          "word": "corn",
+          "translation": "ذرة",
+          "example": "Corn is yellow.",
+          "image": "corn.png"
+        },
+        {
+          "word": "garlic",
+          "translation": "ثوم",
+          "example": "Garlic has a strong smell.",
+          "image": "garlic.png"
+        },
+        {
+          "word": "cabbage",
+          "translation": "كرنب",
+          "example": "Cabbage is healthy.",
+          "image": "cabbage.png"
+        }
+      ],
+      "quiz": [
+        {
+          "question": "What is the meaning of 'tomato'?",
+          "options": [
+            "خس",
+            "ثوم",
+            "كرنب",
+            "طماطم"
+          ],
+          "answer": "طماطم"
+        },
+        {
+          "question": "What is the meaning of 'potato'?",
+          "options": [
+            "بصل",
+            "بطاطس",
+            "طماطم",
+            "خيار"
+          ],
+          "answer": "بطاطس"
+        },
+        {
+          "question": "What is the meaning of 'onion'?",
+          "options": [
+            "جزر",
+            "كرنب",
+            "بطاطس",
+            "بصل"
+          ],
+          "answer": "بصل"
+        },
+        {
+          "question": "What is the meaning of 'carrot'?",
+          "options": [
+            "خيار",
+            "جزر",
+            "ثوم",
+            "خس"
+          ],
+          "answer": "جزر"
+        },
+        {
+          "question": "What is the meaning of 'cucumber'?",
+          "options": [
+            "خيار",
+            "ذرة",
+            "بطاطس",
+            "فلفل"
+          ],
+          "answer": "خيار"
+        },
+        {
+          "question": "What is the meaning of 'pepper'?",
+          "options": [
+            "ثوم",
+            "فلفل",
+            "كرنب",
+            "بطاطس"
+          ],
+          "answer": "فلفل"
+        },
+        {
+          "question": "What is the meaning of 'lettuce'?",
+          "options": [
+            "طماطم",
+            "جزر",
+            "خس",
+            "فلفل"
+          ],
+          "answer": "خس"
+        },
+        {
+          "question": "What is the meaning of 'corn'?",
+          "options": [
+            "جزر",
+            "بطاطس",
+            "ذرة",
+            "ثوم"
+          ],
+          "answer": "ذرة"
+        },
+        {
+          "question": "What is the meaning of 'garlic'?",
+          "options": [
+            "بصل",
+            "ثوم",
+            "خس",
+            "بطاطس"
+          ],
+          "answer": "ثوم"
+        },
+        {
+          "question": "What is the meaning of 'cabbage'?",
+          "options": [
+            "فلفل",
+            "ثوم",
+            "كرنب",
+            "طماطم"
+          ],
+          "answer": "كرنب"
+        }
+      ]
+    },
+    {
+      "day": 26,
+      "words": [
+        {
+          "word": "big",
+          "translation": "كبير",
+          "example": "The house is big.",
+          "image": "big.png"
+        },
+        {
+          "word": "small",
+          "translation": "صغير",
+          "example": "The cat is small.",
+          "image": "small.png"
+        },
+        {
+          "word": "long",
+          "translation": "طويل",
+          "example": "The road is long.",
+          "image": "long.png"
+        },
+        {
+          "word": "short",
+          "translation": "قصير",
+          "example": "The story is short.",
+          "image": "short.png"
+        },
+        {
+          "word": "hot",
+          "translation": "حار",
+          "example": "The soup is hot.",
+          "image": "hot.png"
+        },
+        {
+          "word": "cold",
+          "translation": "بارد",
+          "example": "The water is cold.",
+          "image": "cold.png"
+        },
+        {
+          "word": "fast",
+          "translation": "سريع",
+          "example": "The car is fast.",
+          "image": "fast.png"
+        },
+        {
+          "word": "slow",
+          "translation": "بطيء",
+          "example": "The turtle is slow.",
+          "image": "slow.png"
+        },
+        {
+          "word": "easy",
+          "translation": "سهل",
+          "example": "The test is easy.",
+          "image": "easy.png"
+        },
+        {
+          "word": "difficult",
+          "translation": "صعب",
+          "example": "This problem is difficult.",
+          "image": "difficult.png"
+        }
+      ],
+      "quiz": [
+        {
+          "question": "What is the meaning of 'big'?",
+          "options": [
+            "سهل",
+            "قصير",
+            "بارد",
+            "كبير"
+          ],
+          "answer": "كبير"
+        },
+        {
+          "question": "What is the meaning of 'small'?",
+          "options": [
+            "صعب",
+            "بطيء",
+            "طويل",
+            "صغير"
+          ],
+          "answer": "صغير"
+        },
+        {
+          "question": "What is the meaning of 'long'?",
+          "options": [
+            "قصير",
+            "طويل",
+            "صعب",
+            "حار"
+          ],
+          "answer": "طويل"
+        },
+        {
+          "question": "What is the meaning of 'short'?",
+          "options": [
+            "بطيء",
+            "سريع",
+            "قصير",
+            "بارد"
+          ],
+          "answer": "قصير"
+        },
+        {
+          "question": "What is the meaning of 'hot'?",
+          "options": [
+            "بارد",
+            "سريع",
+            "حار",
+            "كبير"
+          ],
+          "answer": "حار"
+        },
+        {
+          "question": "What is the meaning of 'cold'?",
+          "options": [
+            "صغير",
+            "بطيء",
+            "صعب",
+            "بارد"
+          ],
+          "answer": "بارد"
+        },
+        {
+          "question": "What is the meaning of 'fast'?",
+          "options": [
+            "قصير",
+            "صغير",
+            "سريع",
+            "حار"
+          ],
+          "answer": "سريع"
+        },
+        {
+          "question": "What is the meaning of 'slow'?",
+          "options": [
+            "بارد",
+            "كبير",
+            "سهل",
+            "بطيء"
+          ],
+          "answer": "بطيء"
+        },
+        {
+          "question": "What is the meaning of 'easy'?",
+          "options": [
+            "بارد",
+            "سريع",
+            "طويل",
+            "سهل"
+          ],
+          "answer": "سهل"
+        },
+        {
+          "question": "What is the meaning of 'difficult'?",
+          "options": [
+            "صعب",
+            "كبير",
+            "سهل",
+            "بطيء"
+          ],
+          "answer": "صعب"
+        }
+      ]
+    },
+    {
+      "day": 27,
+      "words": [
+        {
+          "word": "calm",
+          "translation": "هادئ",
+          "example": "I feel calm now.",
+          "image": "calm.png"
+        },
+        {
+          "word": "nervous",
+          "translation": "متوتر",
+          "example": "He is nervous before the exam.",
+          "image": "nervous.png"
+        },
+        {
+          "word": "proud",
+          "translation": "فخور",
+          "example": "She is proud of her work.",
+          "image": "proud.png"
+        },
+        {
+          "word": "ashamed",
+          "translation": "خجِل",
+          "example": "He felt ashamed of the mistake.",
+          "image": "ashamed.png"
+        },
+        {
+          "word": "lonely",
+          "translation": "وحيد",
+          "example": "She feels lonely at night.",
+          "image": "lonely.png"
+        },
+        {
+          "word": "friendly",
+          "translation": "ودود",
+          "example": "He is very friendly.",
+          "image": "friendly.png"
+        },
+        {
+          "word": "polite",
+          "translation": "مهذب",
+          "example": "The boy is polite.",
+          "image": "polite.png"
+        },
+        {
+          "word": "rude",
+          "translation": "وقح",
+          "example": "Do not be rude.",
+          "image": "rude.png"
+        },
+        {
+          "word": "kind",
+          "translation": "لطيف",
+          "example": "Thank you for being kind.",
+          "image": "kind.png"
+        },
+        {
+          "word": "brave",
+          "translation": "شجاع",
+          "example": "The firefighter is brave.",
+          "image": "brave.png"
+        }
+      ],
+      "quiz": [
+        {
+          "question": "What is the meaning of 'calm'?",
+          "options": [
+            "وقح",
+            "وحيد",
+            "شجاع",
+            "هادئ"
+          ],
+          "answer": "هادئ"
+        },
+        {
+          "question": "What is the meaning of 'nervous'?",
+          "options": [
+            "لطيف",
+            "متوتر",
+            "وحيد",
+            "شجاع"
+          ],
+          "answer": "متوتر"
+        },
+        {
+          "question": "What is the meaning of 'proud'?",
+          "options": [
+            "متوتر",
+            "فخور",
+            "خجِل",
+            "لطيف"
+          ],
+          "answer": "فخور"
+        },
+        {
+          "question": "What is the meaning of 'ashamed'?",
+          "options": [
+            "شجاع",
+            "وحيد",
+            "خجِل",
+            "متوتر"
+          ],
+          "answer": "خجِل"
+        },
+        {
+          "question": "What is the meaning of 'lonely'?",
+          "options": [
+            "مهذب",
+            "وحيد",
+            "فخور",
+            "خجِل"
+          ],
+          "answer": "وحيد"
+        },
+        {
+          "question": "What is the meaning of 'friendly'?",
+          "options": [
+            "وقح",
+            "ودود",
+            "لطيف",
+            "مهذب"
+          ],
+          "answer": "ودود"
+        },
+        {
+          "question": "What is the meaning of 'polite'?",
+          "options": [
+            "فخور",
+            "وحيد",
+            "مهذب",
+            "خجِل"
+          ],
+          "answer": "مهذب"
+        },
+        {
+          "question": "What is the meaning of 'rude'?",
+          "options": [
+            "وحيد",
+            "متوتر",
+            "وقح",
+            "هادئ"
+          ],
+          "answer": "وقح"
+        },
+        {
+          "question": "What is the meaning of 'kind'?",
+          "options": [
+            "شجاع",
+            "فخور",
+            "لطيف",
+            "وحيد"
+          ],
+          "answer": "لطيف"
+        },
+        {
+          "question": "What is the meaning of 'brave'?",
+          "options": [
+            "خجِل",
+            "هادئ",
+            "شجاع",
+            "وقح"
+          ],
+          "answer": "شجاع"
+        }
+      ]
+    },
+    {
+      "day": 28,
+      "words": [
+        {
+          "word": "wake up",
+          "translation": "يستيقظ",
+          "example": "I wake up at 7 a.m.",
+          "image": "wake_up.png"
+        },
+        {
+          "word": "wash",
+          "translation": "يغسل",
+          "example": "I wash my hands before eating.",
+          "image": "wash.png"
+        },
+        {
+          "word": "brush teeth",
+          "translation": "يفرش الأسنان",
+          "example": "I brush my teeth every morning.",
+          "image": "brush_teeth.png"
+        },
+        {
+          "word": "have breakfast",
+          "translation": "يتناول الإفطار",
+          "example": "I have breakfast with my family.",
+          "image": "have_breakfast.png"
+        },
+        {
+          "word": "go to work",
+          "translation": "يذهب إلى العمل",
+          "example": "I go to work by bus.",
+          "image": "go_to_work.png"
+        },
+        {
+          "word": "study",
+          "translation": "يدرس",
+          "example": "I study English every day.",
+          "image": "study.png"
+        },
+        {
+          "word": "have lunch",
+          "translation": "يتناول الغداء",
+          "example": "I have lunch at noon.",
+          "image": "have_lunch.png"
+        },
+        {
+          "word": "rest",
+          "translation": "يستريح",
+          "example": "I rest for a short time.",
+          "image": "rest.png"
+        },
+        {
+          "word": "have dinner",
+          "translation": "يتناول العشاء",
+          "example": "I have dinner at 7 p.m.",
+          "image": "have_dinner.png"
+        },
+        {
+          "word": "sleep",
+          "translation": "ينام",
+          "example": "I sleep at ten o'clock.",
+          "image": "sleep.png"
+        }
+      ],
+      "quiz": [
+        {
+          "question": "What is the meaning of 'wake up'?",
+          "options": [
+            "يستيقظ",
+            "يذهب إلى العمل",
+            "يتناول الإفطار",
+            "يدرس"
+          ],
+          "answer": "يستيقظ"
+        },
+        {
+          "question": "What is the meaning of 'wash'?",
+          "options": [
+            "يذهب إلى العمل",
+            "ينام",
+            "يتناول الغداء",
+            "يغسل"
+          ],
+          "answer": "يغسل"
+        },
+        {
+          "question": "What is the meaning of 'brush teeth'?",
+          "options": [
+            "يفرش الأسنان",
+            "يتناول الإفطار",
+            "يستريح",
+            "يغسل"
+          ],
+          "answer": "يفرش الأسنان"
+        },
+        {
+          "question": "What is the meaning of 'have breakfast'?",
+          "options": [
+            "يدرس",
+            "يتناول الإفطار",
+            "ينام",
+            "يغسل"
+          ],
+          "answer": "يتناول الإفطار"
+        },
+        {
+          "question": "What is the meaning of 'go to work'?",
+          "options": [
+            "يغسل",
+            "يذهب إلى العمل",
+            "يفرش الأسنان",
+            "يتناول الإفطار"
+          ],
+          "answer": "يذهب إلى العمل"
+        },
+        {
+          "question": "What is the meaning of 'study'?",
+          "options": [
+            "يستيقظ",
+            "يتناول الغداء",
+            "يدرس",
+            "ينام"
+          ],
+          "answer": "يدرس"
+        },
+        {
+          "question": "What is the meaning of 'have lunch'?",
+          "options": [
+            "يدرس",
+            "يتناول الغداء",
+            "يستيقظ",
+            "يتناول الإفطار"
+          ],
+          "answer": "يتناول الغداء"
+        },
+        {
+          "question": "What is the meaning of 'rest'?",
+          "options": [
+            "يدرس",
+            "يستيقظ",
+            "يستريح",
+            "يتناول الإفطار"
+          ],
+          "answer": "يستريح"
+        },
+        {
+          "question": "What is the meaning of 'have dinner'?",
+          "options": [
+            "يتناول العشاء",
+            "يتناول الغداء",
+            "يفرش الأسنان",
+            "ينام"
+          ],
+          "answer": "يتناول العشاء"
+        },
+        {
+          "question": "What is the meaning of 'sleep'?",
+          "options": [
+            "ينام",
+            "يستريح",
+            "يدرس",
+            "يتناول الإفطار"
+          ],
+          "answer": "ينام"
+        }
+      ]
+    },
+    {
+      "day": 29,
+      "words": [
+        {
+          "word": "wash dishes",
+          "translation": "يغسل الصحون",
+          "example": "I wash the dishes after dinner.",
+          "image": "wash_dishes.png"
+        },
+        {
+          "word": "sweep",
+          "translation": "يكنس",
+          "example": "I sweep the floor.",
+          "image": "sweep.png"
+        },
+        {
+          "word": "mop",
+          "translation": "يمسح الأرض",
+          "example": "I mop the kitchen.",
+          "image": "mop.png"
+        },
+        {
+          "word": "do laundry",
+          "translation": "يغسل الملابس",
+          "example": "I do the laundry on Friday.",
+          "image": "do_laundry.png"
+        },
+        {
+          "word": "iron",
+          "translation": "يكوي",
+          "example": "I iron my shirt.",
+          "image": "iron.png"
+        },
+        {
+          "word": "cook",
+          "translation": "يطبخ",
+          "example": "She cooks dinner every day.",
+          "image": "cook.png"
+        },
+        {
+          "word": "take out trash",
+          "translation": "يخرج القمامة",
+          "example": "I take out the trash at night.",
+          "image": "take_out_trash.png"
+        },
+        {
+          "word": "water plants",
+          "translation": "يسقي النباتات",
+          "example": "I water the plants in the morning.",
+          "image": "water_plants.png"
+        },
+        {
+          "word": "make bed",
+          "translation": "يرتب السرير",
+          "example": "I make the bed every morning.",
+          "image": "make_bed.png"
+        },
+        {
+          "word": "clean room",
+          "translation": "ينظف الغرفة",
+          "example": "I clean my room on weekends.",
+          "image": "clean_room.png"
+        }
+      ],
+      "quiz": [
+        {
+          "question": "What is the meaning of 'wash dishes'?",
+          "options": [
+            "يغسل الصحون",
+            "يخرج القمامة",
+            "يغسل الملابس",
+            "يكنس"
+          ],
+          "answer": "يغسل الصحون"
+        },
+        {
+          "question": "What is the meaning of 'sweep'?",
+          "options": [
+            "يمسح الأرض",
+            "يغسل الملابس",
+            "يكنس",
+            "يخرج القمامة"
+          ],
+          "answer": "يكنس"
+        },
+        {
+          "question": "What is the meaning of 'mop'?",
+          "options": [
+            "يغسل الصحون",
+            "يمسح الأرض",
+            "ينظف الغرفة",
+            "يغسل الملابس"
+          ],
+          "answer": "يمسح الأرض"
+        },
+        {
+          "question": "What is the meaning of 'do laundry'?",
+          "options": [
+            "ينظف الغرفة",
+            "يغسل الملابس",
+            "يكوي",
+            "يطبخ"
+          ],
+          "answer": "يغسل الملابس"
+        },
+        {
+          "question": "What is the meaning of 'iron'?",
+          "options": [
+            "يكوي",
+            "يطبخ",
+            "يرتب السرير",
+            "يغسل الملابس"
+          ],
+          "answer": "يكوي"
+        },
+        {
+          "question": "What is the meaning of 'cook'?",
+          "options": [
+            "يخرج القمامة",
+            "يغسل الملابس",
+            "يرتب السرير",
+            "يطبخ"
+          ],
+          "answer": "يطبخ"
+        },
+        {
+          "question": "What is the meaning of 'take out trash'?",
+          "options": [
+            "يرتب السرير",
+            "يمسح الأرض",
+            "يخرج القمامة",
+            "يطبخ"
+          ],
+          "answer": "يخرج القمامة"
+        },
+        {
+          "question": "What is the meaning of 'water plants'?",
+          "options": [
+            "يسقي النباتات",
+            "يكوي",
+            "يغسل الملابس",
+            "يرتب السرير"
+          ],
+          "answer": "يسقي النباتات"
+        },
+        {
+          "question": "What is the meaning of 'make bed'?",
+          "options": [
+            "يغسل الملابس",
+            "يطبخ",
+            "يرتب السرير",
+            "يغسل الصحون"
+          ],
+          "answer": "يرتب السرير"
+        },
+        {
+          "question": "What is the meaning of 'clean room'?",
+          "options": [
+            "يسقي النباتات",
+            "يغسل الملابس",
+            "يمسح الأرض",
+            "ينظف الغرفة"
+          ],
+          "answer": "ينظف الغرفة"
+        }
+      ]
+    },
+    {
+      "day": 30,
+      "words": [
+        {
+          "word": "arrive",
+          "translation": "يصل",
+          "example": "We arrive at the airport.",
+          "image": "arrive.png"
+        },
+        {
+          "word": "leave",
+          "translation": "يغادر",
+          "example": "We leave at six o'clock.",
+          "image": "leave.png"
+        },
+        {
+          "word": "buy ticket",
+          "translation": "يشتري تذكرة",
+          "example": "I buy a ticket online.",
+          "image": "buy_ticket.png"
+        },
+        {
+          "word": "check in",
+          "translation": "يسجّل الدخول",
+          "example": "We check in at the hotel.",
+          "image": "check_in.png"
+        },
+        {
+          "word": "board",
+          "translation": "يصعد على متن",
+          "example": "Passengers board the plane.",
+          "image": "board.png"
+        },
+        {
+          "word": "passport",
+          "translation": "جواز سفر",
+          "example": "I show my passport.",
+          "image": "passport.png"
+        },
+        {
+          "word": "luggage",
+          "translation": "أمتعة",
+          "example": "My luggage is heavy.",
+          "image": "luggage.png"
+        },
+        {
+          "word": "map",
+          "translation": "خريطة",
+          "example": "I read the city map.",
+          "image": "map.png"
+        },
+        {
+          "word": "guide",
+          "translation": "دليل",
+          "example": "The guide shows us the museum.",
+          "image": "guide.png"
+        },
+        {
+          "word": "tour",
+          "translation": "جولة",
+          "example": "We take a city tour.",
+          "image": "tour.png"
+        }
+      ],
+      "quiz": [
+        {
+          "question": "What is the meaning of 'arrive'?",
+          "options": [
+            "دليل",
+            "يصل",
+            "أمتعة",
+            "يسجّل الدخول"
+          ],
+          "answer": "يصل"
+        },
+        {
+          "question": "What is the meaning of 'leave'?",
+          "options": [
+            "جواز سفر",
+            "يسجّل الدخول",
+            "يصل",
+            "يغادر"
+          ],
+          "answer": "يغادر"
+        },
+        {
+          "question": "What is the meaning of 'buy ticket'?",
+          "options": [
+            "أمتعة",
+            "جولة",
+            "يشتري تذكرة",
+            "خريطة"
+          ],
+          "answer": "يشتري تذكرة"
+        },
+        {
+          "question": "What is the meaning of 'check in'?",
+          "options": [
+            "يسجّل الدخول",
+            "يشتري تذكرة",
+            "دليل",
+            "جواز سفر"
+          ],
+          "answer": "يسجّل الدخول"
+        },
+        {
+          "question": "What is the meaning of 'board'?",
+          "options": [
+            "يصعد على متن",
+            "جولة",
+            "يغادر",
+            "يسجّل الدخول"
+          ],
+          "answer": "يصعد على متن"
+        },
+        {
+          "question": "What is the meaning of 'passport'?",
+          "options": [
+            "يشتري تذكرة",
+            "جواز سفر",
+            "أمتعة",
+            "يغادر"
+          ],
+          "answer": "جواز سفر"
+        },
+        {
+          "question": "What is the meaning of 'luggage'?",
+          "options": [
+            "دليل",
+            "يسجّل الدخول",
+            "يصل",
+            "أمتعة"
+          ],
+          "answer": "أمتعة"
+        },
+        {
+          "question": "What is the meaning of 'map'?",
+          "options": [
+            "يشتري تذكرة",
+            "يغادر",
+            "جولة",
+            "خريطة"
+          ],
+          "answer": "خريطة"
+        },
+        {
+          "question": "What is the meaning of 'guide'?",
+          "options": [
+            "يصل",
+            "جواز سفر",
+            "يصعد على متن",
+            "دليل"
+          ],
+          "answer": "دليل"
+        },
+        {
+          "question": "What is the meaning of 'tour'?",
+          "options": [
+            "يصل",
+            "خريطة",
+            "جولة",
+            "يغادر"
+          ],
+          "answer": "جولة"
+        }
+      ]
+    }
+  ]
+}
